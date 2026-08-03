@@ -1,0 +1,42 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+37,429,4788276,344259,5132535
+
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+"Check the properties of the “Download” folder to see its size, path, and last modified info.",2,SUCCESS,11909,578,12487,true,true
+Toggle “Hide from media browsers” for the Download folder and then close the Properties dialog.,2,SUCCESS,9193,565,9758,true,true
+Open the app settings and enable/disable one preference (then return to the file list).,7,SUCCESS,55840,3154,58994,true,true
+Open the built-in text editor and create a small “notes.txt” file in Internal Storage.,13,FAILURE,127938,8559,136497,true,false
+Create a “notes.txt” file and add a short note inside it using the built-in editor.,13,FAILURE,85992,5827,91819,true,false
+"Open the Properties for “notes.txt” to check its path, size, and timestamps.",1,SUCCESS,5938,364,6302,true,true
+"Close the Properties dialog and open notes.txt to add a short note in the built-in editor, then save it.",12,SUCCESS,77405,5363,82768,true,false
+Open the About screen and read the app version/licensing information.,4,SUCCESS,37754,2160,39914,false,true
+Open the app’s Changelog and read the most recent changes.,15,FAILURE,148682,9543,158225,false,false
+Open the Recent files view and inspect the list of recently accessed items to quickly jump back to notes.txt.,13,FAILURE,84337,5713,90050,true,false
+Search for “notes.txt” and open it from the search results to verify and update the note.,13,FAILURE,126628,8723,135351,false,false
+Add the Download folder to bookmarks (as a quick-access alias) and open the bookmarks/quick-access list to verify it appears.,13,FAILURE,189939,14469,204408,true,false
+Add the Download folder to bookmarks/aliases and open the aliases/bookmarks management screen to verify it appears.,13,FAILURE,190488,14596,205084,true,false
+Open the app’s internal database viewer to inspect stored history/recent entries and confirm that notes.txt appears there.,13,FAILURE,164100,11497,175597,true,false
+"Reopen “notes.txt” from the app’s History list and append one more line in the built-in text editor, then save.",13,SUCCESS,82109,5746,87855,true,false
+"Use “Find in page” to search for a keyword in notes.txt, then return to the file manager to look for a menu entry that opens the Database Viewer.",13,FAILURE,153563,11306,164869,true,false
+Add the Download folder to bookmarks/aliases and open the aliases/bookmarks screen to confirm it appears.,13,FAILURE,194433,15186,209619,false,false
+Add the **Download** folder to bookmarks/aliases and then open the bookmarks/aliases screen to verify it appears there.,13,FAILURE,194745,15195,209940,false,false
+Add the **Download** folder to **Bookmarks/Aliases** and then open the bookmarks/aliases management screen to confirm it appears there.,13,FAILURE,195375,15053,210428,false,false
+Add the **Download** folder to **Bookmarks/Aliases** and open the bookmarks/aliases list to confirm it appears there.,13,FAILURE,195580,15227,210807,false,false
+Add the **Download** folder to **Bookmarks/Aliases** and open the **Bookmarks/Aliases** screen to confirm it appears there.,13,FAILURE,195497,15162,210659,false,false
+Add the **Download** folder to **Bookmarks/Aliases** and then open the **Aliases/Bookmarks** screen to confirm it appears there.,13,FAILURE,195444,15163,210607,false,false
+Open the app’s internal database viewer and inspect the stored History/Recent entries to confirm that “notes.txt” is being recorded.,13,FAILURE,142401,10248,152649,true,false
+Set Amaze Text Editor to always open notes.txt by choosing **Always** in the current app chooser.,4,SUCCESS,31012,2296,33308,false,false
+Open the app’s History screen and use it to reach the Database Viewer to inspect the stored entry for notes.txt.,13,FAILURE,88371,6413,94784,true,false
+Switch the file list to Grid View and verify that the Main screen layout changes accordingly.,13,FAILURE,101397,6475,107872,true,true
+Create a new text file in Internal Storage using the floating “+” menu and open it in Amaze’s TextEditor to add a short note and save.,13,SUCCESS,136419,7968,144387,true,true
+Open the scratch.txt overflow menu to view its Details and then return to the file manager to locate and open the Bookmarks/Aliases (UtilitiesAlias) screen via the main navigation/menu.,13,FAILURE,97373,5793,103166,true,false
+"Add the **Pictures** folder to Bookmarks/Aliases using the long-press context menu, then open the Bookmarks/Aliases manager to confirm it appears.",14,FAILURE,172754,13417,186171,false,false
+"Open the Bookmarks/Aliases manager and confirm that a bookmarked folder (e.g., Pictures) appears there.",13,FAILURE,146319,9377,155696,true,false
+Export Amaze settings to a backup file from the Backup settings section.,13,SUCCESS,113102,8614,121716,true,false
+Set up an app lock by opening **Security** settings and enabling a password/PIN for Amaze.,13,FAILURE,109445,7969,117414,true,false
+Send feedback reporting that “Add to Bookmarks/Aliases” is hard to find from the file list and that tapping “Properties” doesn’t help.,15,FAILURE,136431,9476,145907,false,false
+Save the shared “logs.txt” into internal storage using Amaze’s “Save as…” option so you can inspect it later.,13,FAILURE,155045,11400,166445,true,false
+"Try to open the hidden “.nomedia” file from Download using “Open with” to intentionally trigger an error and observe the app’s Error page, then return to the file list.",15,FAILURE,104190,7528,111718,false,false
+Open the Bookmarks/Aliases manager and add the current Download folder as a quick-access bookmark/alias.,13,FAILURE,147350,9540,156890,true,false
+Create a new folder in Download and move “notes.txt” into it.,13,SUCCESS,121883,8106,129989,true,true

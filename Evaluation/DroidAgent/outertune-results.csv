@@ -1,0 +1,45 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+41,473,4483057,334761,4817818
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Start the quick setup to personalize OuterTune and enable music sources (YouTube Music and/or local files).,13,FAILURE,78093,4729,82822,true,true
+Finish signing in to the Google/YouTube Music account using the saved credentials.,13,FAILURE,98612,6818,105430,true,false
+Browse your local music by opening the Songs tab and start playing one downloaded track.,13,FAILURE,90397,6151,96548,true,false
+Run a full manual rescan of local media and then check the Songs library to confirm tracks appear.,13,FAILURE,94503,6572,101075,true,false
+Grant access to the Downloads folder so OuterTune can scan local media.,13,SUCCESS,104210,7095,111305,true,true
+Run a full local-library rescan and then verify that scanned songs appear in the Library section.,13,FAILURE,110526,8089,118615,true,false
+Verify your local-library scan worked by opening Songs and playing the first available local track.,13,FAILURE,104803,7842,112645,true,false
+Check whether the manual scan produced any local songs by going to Songs and confirming the library is no longer empty (and starting playback if a song appears).,2,FAILURE,17945,1212,19157,true,false
+Switch to the Liked songs view and change the sort order to see if any items appear.,9,SUCCESS,57767,4917,62684,true,true
+Run a full local-library rescan and then verify whether any songs appear in Songs → Library.,11,FAILURE,87561,6879,94440,true,false
+"Open Local scanner and add/confirm an additional music folder in Scan paths, then run a manual scan once and check whether the Songs library count changes from 0.",13,FAILURE,119539,9745,129284,true,false
+Open the Library and check the Songs section to confirm whether any local tracks appear and whether the Library categories are accessible.,11,SUCCESS,94224,7603,101827,true,true
+"Search for any locally scanned songs and, if none appear, switch the sort to “Date modified” to confirm the library is truly empty.",13,FAILURE,107083,8864,115947,true,false
+Search for a song in OuterTune and start playing it from the search results.,4,SUCCESS,36331,2746,39077,true,true
+Add “Blinding Lights” to Liked songs and open the song’s queue/details from the player to confirm it was saved.,13,FAILURE,84354,5852,90206,true,false
+Start a radio station based on “Blinding Lights” and begin playing the first radio track.,13,FAILURE,105317,5859,111176,true,false
+Start playing the “Blinding Lights Mix” from the queue and like/add the currently playing radio track to your library.,13,FAILURE,106172,7328,113500,true,false
+Play “Watermelon Sugar” from the Main page and like/save it so it appears in your Liked songs (or Library) list.,13,FAILURE,125696,8753,134449,true,false
+Save (add to library/like) the currently playing song “End of Beginning” and then confirm it appears in the Library/Liked songs list.,13,FAILURE,138269,9784,148053,true,false
+Like (or add to library) the currently playing song and confirm it shows up in the Liked songs list.,13,FAILURE,114914,7998,122912,true,false
+Download the currently selected track/selection and then confirm it shows up under Songs → Downloaded.,13,SUCCESS,133929,10239,144168,true,true
+Like (or add to library) the downloaded song “Runner” and confirm it shows up under Liked songs.,13,FAILURE,113605,8833,122438,true,false
+Start a Djo radio mix from the Main page and add the currently playing song to your Library.,13,FAILURE,133654,10087,143741,true,false
+"Save (add to library/like) the currently playing “End of Beginning” track using a long-press/context menu, then verify it appears in the Library’s Liked songs list.",13,FAILURE,143332,9471,152803,true,false
+"Add the currently playing (or a visible) song from “Tentpole Shangrila Mix” to your Library, then verify it appears under Library → Songs.",13,FAILURE,126595,8271,134866,true,false
+Add the current song to your library and then verify it appears in Library → Songs (Library or Liked filter).,13,FAILURE,132359,9635,141994,true,false
+"Add “Sienna” (The Marías) to your library from the search results, then go to Library → Songs to confirm it appears under the Library filter.",2,SUCCESS,21068,1240,22308,true,true
+"Create a new playlist by selecting multiple liked songs (e.g., “Sienna” and “Dark Red”) and adding them to that playlist.",13,FAILURE,97592,6951,104543,true,false
+Queue the current song to play next and confirm it appears at the top of the Up Next/queue list.,13,FAILURE,144180,10369,154549,true,false
+Select two songs from the Main list using their checkboxes and add them to a playlist (or start a new playlist from the selection flow).,13,FAILURE,137723,10683,148406,true,false
+Select two songs from the list and add them to a new playlist named “Jade Test Mix.”,13,FAILURE,173679,13882,187561,true,false
+Add the currently selected liked songs to a new playlist named “Jade Test Mix.”,13,FAILURE,104243,8266,112509,true,false
+"Sort the current add-to-playlist selection by “Date added,” then add the selection to “Jade Test Mix” using “Skip duplicates” so the playlist ends up with the intended songs without confusion.",9,SUCCESS,83817,6755,90572,true,true
+Start playing “Jade Test Mix” in shuffle mode and confirm the now-playing screen shows one of its tracks.,4,FAILURE,42505,3037,45542,true,false
+"Open the “Dark Red” song page and add it to your Library, then confirm it appears in your Library Songs (or Liked) list.",13,FAILURE,133433,11186,144619,true,false
+Use “Play next” on “Dark Red” and then open the queue/Up Next list to confirm it appears at the top.,13,FAILURE,124942,9882,134824,true,false
+"Refetch the lyrics for the current song and, if needed, search for an alternative lyrics source to replace the current lyrics.",14,FAILURE,117946,9156,127102,true,false
+Search online for lyrics for “Dark Red” by “Steve Lacy” using the current dialog and confirm the lyrics view loads.,4,SUCCESS,20558,1525,22083,true,true
+Open the current artist page (Steve Lacy) and start a radio/mix from the artist to refresh playback with similar songs.,13,FAILURE,144064,11284,155348,true,false
+Verify that “Play next” works by adding a different song to the queue and confirming it appears at the top of Up Next.,13,FAILURE,158876,12185,171061,true,false
+Add “Static” to play next from the album track list and verify it is first in the Up Next/queue.,13,FAILURE,152349,11862,164211,true,false

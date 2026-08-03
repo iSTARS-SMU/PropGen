@@ -1,0 +1,992 @@
+[
+  {
+    "description": "Open a folder to browse its contents",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302171302",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Search for files or folders",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302171728",
+    "end_time": "20260302171820",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change sorting or view options for the file list",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302172847",
+    "end_time": "20260302172923",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open navigation drawer to switch locations/settings",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302172924",
+    "end_time": "20260302173020",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open app overflow menu for more actions",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302171821",
+    "end_time": "20260302171838",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open folder context menu (rename, delete, etc.)",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302172204",
+    "end_time": "20260302172219",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new item (e.g., folder) using the plus button",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302172305",
+    "end_time": "20260302172425",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a home-screen shortcut for the selected folder",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302171704",
+    "end_time": "20260302171727",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add the selected folder to bookmarks",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302172220",
+    "end_time": "20260302172304",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Copy the selected folder path to clipboard",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302171839",
+    "end_time": "20260302172204",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Share the selected folder via other apps",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302172441",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Compress the selected folder into an archive",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302173911",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cut the selected folder to move it elsewhere",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302174349",
+    "end_time": "20260302174554",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen/location",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302180912",
+    "end_time": "20260302180930",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Copy selected items to clipboard for pasting elsewhere",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302182253",
+    "end_time": "20260302182328",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete the currently selected items",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302182857",
+    "end_time": "20260302182931",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Exit multi-selection mode (clear current selection)",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183031",
+    "end_time": "20260302183051",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the current search query text",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302182351",
+    "end_time": "20260302182410",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open actions menu for the found folder result",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302172425",
+    "end_time": "20260302172440",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the current folder in a new window",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302182432",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Navigate to the parent directory (go up)",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302182833",
+    "end_time": "20260302182850",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Jump to a specific path/location (Go to)",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183557",
+    "end_time": "20260302183741",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Refresh the current folder contents",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183818",
+    "end_time": "20260302183835",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select all items in the current folder",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302183938",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle visibility of hidden files",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302190326",
+    "end_time": "20260302190403",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View the selected folder's properties (details like size, path, permissions).",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302174954",
+    "end_time": "20260302175010",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new folder in the current directory",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302191225",
+    "end_time": "20260302191314",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new file in the current directory",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302192628",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Collapse/close the create-item quick actions menu",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302173021",
+    "end_time": "20260302173040",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm creating the new folder with the entered name",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302175011",
+    "end_time": "20260302175137",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel new folder creation and close the dialog",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302184725",
+    "end_time": "20260302184745",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Enter or edit the new folder name in the text field",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302193036",
+    "end_time": "20260302193053",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save the file using the current name and location",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302173041",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel saving and close the save file screen",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302181338",
+    "end_time": "20260302181354",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the output file name in the name field",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302184443",
+    "end_time": "20260302184503",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change save destination to Internal shared storage (parent location)",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302173437",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Retry the failed copy operation",
+    "source_activity": "FileJobErrorDialogActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302185916",
+    "end_time": "20260302190130",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch file display to list view",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302190520",
+    "end_time": "20260302190538",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch file display to grid view",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302194009",
+    "end_time": "20260302194046",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort items by name",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302194047",
+    "end_time": "20260302194219",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort items by type",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302195246",
+    "end_time": "20260302195305",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle ascending sort order",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302190403",
+    "end_time": "20260302190519",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Internal shared storage location",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302173837",
+    "end_time": "20260302173854",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open SDCARD storage location",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302174315",
+    "end_time": "20260302174331",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a new storage/provider (e.g., SMB/SFTP/WebDAV/Document tree)",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302175621",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm/select current directory using the save button",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302184504",
+    "end_time": "20260302184524",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow actions for the \"Alarms\" folder in save destination list",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302173854",
+    "end_time": "20260302173910",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow actions for the \"Android\" folder in save destination list",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302174332",
+    "end_time": "20260302174348",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the ZIP archive to view its contents",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302174554",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the current folder location in a terminal app",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302194730",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Root storage location",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302180139",
+    "end_time": "20260302180348",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Downloads directory",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183406",
+    "end_time": "20260302183422",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Pictures directory",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183746",
+    "end_time": "20260302183801",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and navigate to the entered path",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302180500",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Dismiss the Go to dialog without navigating",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302184751",
+    "end_time": "20260302184810",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Navigate to internal storage path (storage/emulated) to avoid unavailable Root location",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302175138",
+    "end_time": "20260302175211",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and create the archive with chosen settings",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302184559",
+    "end_time": "20260302184715",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Pin/unpin the current folder location for quick access",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302175402",
+    "end_time": "20260302175434",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit/rename the current storage/location label using the pencil icon",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302175435",
+    "end_time": "20260302175620",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel the current move operation (exit Moving mode)",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183528",
+    "end_time": "20260302183546",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Paste/move the selected items into the current folder",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183851",
+    "end_time": "20260302183910",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate directly to the Downloads folder via breadcrumb chip",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302175212",
+    "end_time": "20260302175401",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the properties dialog",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302192550",
+    "end_time": "20260302192606",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View file permissions details",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302180349",
+    "end_time": "20260302180459",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View file checksum information",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302180931",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add Android/data as a storage shortcut/provider",
+    "source_activity": "AddStorageDialogActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302193407",
+    "end_time": "20260302193422",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter SMB server hostname or IP address",
+    "source_activity": "EditSmbServerActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302185423",
+    "end_time": "20260302185439",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit SMB server port number",
+    "source_activity": "EditSmbServerActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302180040",
+    "end_time": "20260302180138",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter optional SMB share path",
+    "source_activity": "EditSmbServerActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302185257",
+    "end_time": "20260302185422",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Connect to SMB server and add it",
+    "source_activity": "EditSmbServerActivity",
+    "status": "FAILED",
+    "start_time": "20260302185440",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add SMB server without connecting",
+    "source_activity": "EditSmbServerActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302185831",
+    "end_time": "20260302185906",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to the Permissions tab to view folder permission details",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302181355",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch back to the Basic tab to view general folder information",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302181820",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm and close the properties dialog",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302193054",
+    "end_time": "20260302193128",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm deletion of the selected file",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302194229",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel deletion and close the confirmation dialog",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302194620",
+    "end_time": "20260302194635",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm renaming the file to the entered name",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302181805",
+    "end_time": "20260302181820",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel the rename operation and close the dialog",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302195429",
+    "end_time": "20260302195445",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Apply current view/sort settings only to this folder",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302195135",
+    "end_time": "20260302195246",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to the Downloads directory by tapping the breadcrumb chip",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302182940",
+    "end_time": "20260302182956",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to Documents provider to browse document-based locations",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183100",
+    "end_time": "20260302183405",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch to My Storage provider to browse device storage locations",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183423",
+    "end_time": "20260302183456",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the saved network server connection (guest@192.168.1.1:4) to browse remote files",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302184837",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Copy the currently selected items using the toolbar copy button",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302183509",
+    "end_time": "20260302183527",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow menu for an existing file to access file actions (e.g., rename/share/delete).",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302190539",
+    "end_time": "20260302190737",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Edit the current storage/location label (rename \"My Storage\")",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302190832",
+    "end_time": "20260302191021",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel multi-selection mode using the close (X) button",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302191109",
+    "end_time": "20260302191125",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View current selection count/details in multi-select mode",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302191149",
+    "end_time": "20260302191206",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a file (e.g., HelloWorld) to view or edit its contents",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302191327",
+    "end_time": "20260302191707",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open text editor overflow menu for additional actions (e.g., find, share, settings).",
+    "source_activity": "TextEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302191708",
+    "end_time": "20260302191721",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reload the currently opened text file from disk",
+    "source_activity": "TextEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302191722",
+    "end_time": "20260302192037",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open encoding options to change how the file is interpreted",
+    "source_activity": "TextEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302192104",
+    "end_time": "20260302192120",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Filter/search available encodings using the Encoding search field",
+    "source_activity": "TextEditorActivity",
+    "status": "FAILED",
+    "start_time": "20260302192121",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Keep editing and return to the text editor without discarding changes",
+    "source_activity": "TextEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302192459",
+    "end_time": "20260302192513",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Discard unsaved changes and exit the editor",
+    "source_activity": "TextEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302192523",
+    "end_time": "20260302192538",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to the \"Podcasts\" folder via breadcrumb chip",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302193247",
+    "end_time": "20260302193301",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to the \"HelloWor...\" folder via breadcrumb chip",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302193302",
+    "end_time": "20260302193317",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow actions for the \"HelloWor...\" device storage entry",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302193422",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Pin/unpin the \"storage\" breadcrumb segment for quick access",
+    "source_activity": "FileListActivity",
+    "status": "FAILED",
+    "start_time": "20260302195656",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the built-in FTP server screen to manage/start file sharing.",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302200424",
+    "end_time": "20260302200440",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open app settings to configure Material Files behavior.",
+    "source_activity": "FileListActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302200854",
+    "end_time": "20260302200912",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start or stop the FTP server using the main toggle.",
+    "source_activity": "FtpServerActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302200441",
+    "end_time": "20260302200459",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable anonymous FTP login.",
+    "source_activity": "FtpServerActivity",
+    "status": "FAILED",
+    "start_time": "20260302200500",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Change app language from System default",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302200913",
+    "end_time": "20260302200946",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the app theme color (accent color)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302200947",
+    "end_time": "20260302201020",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle Material Design styling on or off",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302201021",
+    "end_time": "20260302201038",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change Night mode setting (e.g., follow system/always on/off)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302201039",
+    "end_time": "20260302201112",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle pure black theme for night mode",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302201113",
+    "end_time": "20260302201130",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable file list animations",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302201131",
+    "end_time": "20260302201148",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure how long file names are displayed (ellipsis behavior)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260302201149",
+    "end_time": "20260302201222",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  }
+]

@@ -1,0 +1,53 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+49,587,4551839,327652,4879491
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Dismiss the “What’s New” screen and create/open your first notebook so you can start adding notes.,4,SUCCESS,22928,1390,24318,true,true
+Create a new note in the “Getting Started with Orgzly” notebook using the + button and save it.,13,SUCCESS,117999,5860,123859,true,true
+"Add a tag and a scheduled time to the current note, save it, then check in Agenda that it appears as an upcoming item.",13,FAILURE,107852,6892,114744,true,false
+Open the Agenda view and confirm that your scheduled note appears at the correct time.,11,SUCCESS,82813,6136,88949,true,true
+Set up a new sync repository by opening the Repositories screen and starting to add a WebDAV (or Directory) repo.,13,FAILURE,103358,6206,109564,true,false
+Set up a local “Directory” repository for syncing/backups and run a sync once.,13,FAILURE,90035,6409,96444,true,false
+Complete the existing Directory repository configuration and run a sync to verify it works.,13,FAILURE,68567,4965,73532,true,false
+Trigger a manual sync/export to your configured Downloads Directory repository to confirm your notebooks can be backed up.,13,FAILURE,75455,5859,81314,true,false
+Change the Org file export format in Settings so exported notebooks use your preferred format.,9,FAILURE,52245,4170,56415,true,false
+"Change the “Separate header and content” Org file format setting by toggling it OFF, then return to Sync settings to look for a manual sync/export action.",13,FAILURE,87869,6902,94771,true,false
+Add a new WebDAV repository for syncing and save it.,11,SUCCESS,67607,4401,72008,true,true
+Test the connection for the WebDAV repository and confirm it reports a successful connection.,13,FAILURE,111006,8654,119660,true,false
+"Back out of Trusted certificates and add a new repository using a different sync method (e.g., Dropbox or Git) to test a successful repository setup flow.",8,SUCCESS,37309,2614,39923,true,true
+Run a manual sync/export to the Downloads Directory repository and confirm a backup file is created.,13,FAILURE,86553,6470,93023,true,false
+Export your current notebook(s) to an Org file and save it to the Downloads folder as a backup.,13,FAILURE,88629,6617,95246,true,false
+Set up an Orgzly home-screen list widget and point it to a specific notebook or saved search.,14,FAILURE,102586,7673,110259,true,false
+"Share your scheduled test note from the “Getting Started with Orgzly” notebook to another app (e.g., email or a text app) to verify Orgzly’s sharing flow.",13,FAILURE,121470,6874,128344,true,false
+"Share the currently open note to an external app (e.g., Gmail) using Orgzly’s share action.",13,FAILURE,88969,6187,95156,true,false
+"Set the note’s **State** to a completed/done-like state and assign a **Priority**, then save the changes.",5,SUCCESS,38645,2346,40991,true,true
+Share the note “DONE  #A  Jade Green  -Agenda test note  tester_green” to another app using Orgzly’s share action.,13,FAILURE,121089,7690,128779,true,false
+Export the “Getting Started with Orgzly” notebook as an Org file to the Downloads folder (and proceed to the system picker if prompted).,13,FAILURE,100312,6034,106346,true,false
+Configure reminder notifications for scheduled notes by enabling notifications and setting a reminder time.,13,SUCCESS,99104,7450,106554,true,true
+"Enable deadline reminders and set a new daily reminder time (e.g., 8:30 AM) to customize how Orgzly notifies you.",9,SUCCESS,70714,5311,76025,true,true
+Create a new note scheduled for the next few minutes and confirm it shows up in Agenda (and ideally triggers a reminder).,12,SUCCESS,119509,7804,127313,true,true
+Share the “Test reminder - Jade Green - next few minutes” note to another app using Orgzly’s share feature.,13,FAILURE,111179,8089,119268,true,false
+Share a short piece of text from another app into Orgzly to create a new note via Orgzly’s Share screen.,13,SUCCESS,79096,5444,84540,true,true
+"Create a new notebook for your graduate studies using a template, then open it to confirm it was created.",10,FAILURE,64951,4440,69391,true,false
+Create a new “Coursework plan” note in the “CS Grad School” notebook using a template.,13,FAILURE,122447,9348,131795,true,false
+"Add a deadline and a custom property to the “Coursework plan” note, then save it.",13,SUCCESS,144009,11499,155508,true,true
+Apply a built-in template to the “Coursework plan” note and save the note.,13,FAILURE,97595,7968,105563,true,false
+Save the “Coursework plan” note and insert a built-in template into it.,13,FAILURE,110429,8615,119044,true,false
+Run a manual sync for your notebooks and then open the app’s logs to confirm what happened.,13,FAILURE,121029,9218,130247,true,false
+Create a new note from shared text by opening Orgzly’s Share screen and saving it into the “CS Grad School” notebook.,13,FAILURE,130267,10028,140295,true,false
+Open the app logs and confirm the most recent manual Sync result (success/failure and any repository-related error).,13,FAILURE,93874,7714,101588,true,false
+Open the app logs and confirm the most recent Sync event result (success or any repository-related error).,13,FAILURE,71929,4472,76401,true,false
+"Share the current app logs to another app (e.g., Gmail or a notes app) so you can review the latest Sync-related messages outside Orgzly.",15,FAILURE,81660,5320,86980,true,false
+Send the current Orgzly App Logs to Gmail as an email draft addressed to anony1017mous@gmail.com.,17,FAILURE,78963,5084,84047,true,false
+Locate and capture the most recent Sync-related result in App Logs (success or repository error) by refreshing and copying the relevant log lines.,13,FAILURE,92009,6881,98890,true,false
+Set up a new Git-based repository for syncing notebooks and return to the repository list to confirm it was added.,13,FAILURE,87616,6569,94185,false,false
+Grant Orgzly access to Downloads and open the existing “Orgzly Search Queries.json” file to confirm the app can read/import it (or at least preview/accept the selection).,13,FAILURE,68300,4875,73175,true,false
+Grant Orgzly persistent access to the Downloads folder from the file picker so local file operations can proceed.,14,FAILURE,71857,5286,77143,true,false
+Complete configuring the Downloads folder as a Directory repository by granting access in the file picker and saving/confirming the repository.,7,SUCCESS,41507,3000,44507,true,true
+Configure Auto-sync settings and run a manual sync to confirm the app recognizes the configured repositories.,13,FAILURE,103741,7853,111594,true,false
+Enable “Use property for created-at time” and confirm the switch turns ON.,2,SUCCESS,13849,850,14699,true,true
+Trigger a manual sync from the Repositories screen and confirm the outcome in App Logs.,13,FAILURE,88199,6410,94609,true,false
+"Open the existing Dropbox repository entry and verify whether it is linked/authenticated, then save/confirm the repository settings.",16,FAILURE,88143,6857,95000,true,false
+"Open the WebDAV repository entry and save it with safe dummy credentials, then trigger a manual sync and verify the resulting success/error lines in App Logs.",13,FAILURE,110306,8008,118314,true,false
+Search for “Coursework plan” and open it from the search results to review it in the note browser.,4,SUCCESS,34159,2279,36438,true,true
+Create a new note in the “CS Grad School” notebook by sharing a short piece of text into Orgzly and selecting the target notebook.,16,FAILURE,109195,8237,117432,true,false

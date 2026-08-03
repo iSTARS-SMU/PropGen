@@ -1,0 +1,52 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+47,508,4744741,324040,5068781
+
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Search for a podcast and subscribe to it.,9,SUCCESS,53735,2919,56654,true,true
+Open the app settings and change the default playback speed (or playback speed step) to a preferred value.,13,FAILURE,78646,4954,83600,true,true
+Start playing an episode from your subscribed podcast and confirm the playback speed is applied in the player.,9,SUCCESS,67074,3546,70620,true,true
+Download the currently playing episode and confirm it appears in the Downloads list for offline playback.,13,FAILURE,113900,7075,120975,true,false
+Add the currently playing episode to Favorites and share its link with yourself.,15,FAILURE,105123,6483,111606,true,true
+Check Gmail’s app details from the share chooser to diagnose why sharing to Gmail failed.,17,FAILURE,88967,5668,94635,false,false
+Open the Download log and review recent entries to understand why the episode download didn’t complete.,13,FAILURE,99676,6352,106028,true,false
+"Open the Queue and add the “Prettier and Opinionated Code Formatting with James Long” episode to the queue, then start playing it from the queue.",2,SUCCESS,15751,1101,16852,true,true
+Open the Inbox and add any new episode to the Queue (or start playing it) to simulate checking for new content.,6,SUCCESS,51587,4039,55626,true,false
+Import podcast subscriptions from an OPML file and choose at least one podcast to add.,14,FAILURE,83133,5114,88247,true,true
+"Locate an OPML file in storage and import it, then proceed to the podcast selection step to add at least one new subscription.",15,FAILURE,85025,4957,89982,false,false
+Back out of the file picker and start playing a video episode to reach the video player and adjust playback speed from the player.,14,FAILURE,135301,9189,144490,true,false
+Submit a bug report describing that tapping “Download” didn’t result in any episode showing up in the Downloads list.,13,FAILURE,114270,8306,122576,false,false
+Open the download log and identify the most recent download attempt’s status/error so you can understand why the episode didn’t appear in Downloads.,13,SUCCESS,83637,6192,89829,true,true
+Clear the download log history to reset the log list after troubleshooting.,1,SUCCESS,6993,397,7390,true,true
+Find a podcast episode labeled as video and start playing it to open the in-app video player.,13,FAILURE,129282,8593,137875,true,true
+Open the “Software Engineering Daily” podcast from Subscriptions and start playing a specific episode from its feed to reach the full player.,6,SUCCESS,61847,4414,66261,true,true
+Configure an AntennaPod home screen widget for quick playback controls.,17,FAILURE,138628,9622,148250,false,false
+"Add a new podcast by searching for a topic (e.g., “computer science”) and subscribe to one result from the in-app discovery flow.",13,FAILURE,147702,10213,157915,true,false
+Start playing a video episode from Software Engineering Daily and open it in the in-app video player.,13,FAILURE,136001,9665,145666,true,true
+"Download one episode from “Software Engineering Daily” and, if it still doesn’t appear in Downloads, file an in-app bug report describing the mismatch.",12,SUCCESS,148608,10782,159390,true,true
+Subscribe to a new podcast by searching for a computer-science-related show and confirming the subscription.,13,FAILURE,151694,10485,162179,true,false
+Subscribe to the “Software Engineering Daily” podcast and confirm it appears in your Subscriptions list.,13,SUCCESS,147275,10693,157968,true,false
+Set a custom default playback speed for “Software Engineering Daily” and enable new-episode notifications for that podcast.,6,SUCCESS,44061,3422,47483,true,true
+Set authentication credentials for the “Software Engineering Daily” podcast.,8,SUCCESS,68859,4925,73784,true,true
+"Add a couple of organizational tags (e.g., “CS” and “GradSchool”) to the “Software Engineering Daily” podcast.",13,SUCCESS,116393,8721,125114,true,true
+Enable auto-downloading for “Software Engineering Daily” and set the “New episodes action” to add new episodes directly to the Queue.,9,SUCCESS,81092,5825,86917,true,true
+File a bug report describing the earlier confusion about a download not appearing in the Downloads list.,15,FAILURE,126971,8746,135717,false,false
+Add an AntennaPod playback widget to the home screen and configure it to control current playback.,19,FAILURE,138355,9382,147737,false,false
+Open the currently playing episode from the mini-player and change its playback speed from the player controls.,4,SUCCESS,48012,2728,50740,false,true
+"Enable “Skip silence in audio,” switch to a different speed preset, and return to the episode player to confirm the new playback settings are applied.",4,SUCCESS,35522,2298,37820,true,true
+Import podcast subscriptions from an OPML file using AntennaPod’s import feature.,14,FAILURE,94556,5571,100127,true,true
+"Locate an OPML file by switching storage roots and filters in the file picker, then start the OPML import.",15,FAILURE,90659,4999,95658,false,false
+Change the file picker view/filters to show all files and locate an OPML file to start an OPML import.,16,FAILURE,85001,4882,89883,false,false
+Export your subscriptions as an OPML file so you can back them up or move them to another podcast app.,2,SUCCESS,13196,689,13885,true,true
+Turn on automatic database export and verify the setting stays enabled.,9,SUCCESS,66243,4536,70779,true,false
+"Start a database export backup so you can transfer your subscriptions, listened episodes, and queue to another device.",2,SUCCESS,13800,757,14557,true,true
+Restore AntennaPod from a previously exported database backup by using **Database import** and selecting the latest “AntennaPodBackup-2026-03-24.db” file.,7,SUCCESS,45087,2919,48006,true,true
+Start a video episode (or any episode with a video option) and open it in the in-app video player.,13,FAILURE,143967,9737,153704,true,true
+Start playback of a video episode and open it in the in-app video player.,13,FAILURE,168113,12301,180414,true,false
+Open the currently playing episode and switch to watching it in the in-app video player.,14,FAILURE,158564,11646,170210,true,false
+Set a 15-minute sleep timer for the currently playing episode and confirm it is active.,8,SUCCESS,95136,6736,101872,true,true
+Extend the active sleep timer by 10 minutes and enable the vibration warning before closing the sleep timer screen.,5,SUCCESS,43199,2793,45992,true,true
+"Subscribe to a new podcast by searching for a topic you like (e.g., “computer science” or “machine learning”) and adding one result to your subscriptions.",13,SUCCESS,154181,10345,164526,true,true
+Add a new podcast by using the “Add podcast” flow from the More menu and subscribe to one show.,13,SUCCESS,155091,11005,166096,true,true
+Add a new podcast by pasting an RSS feed address and subscribe to it.,6,SUCCESS,39834,2788,42622,true,true
+Download one episode from “The Daily” and then open the Downloads screen to confirm it’s saved for offline listening.,13,FAILURE,163324,11717,175041,true,false

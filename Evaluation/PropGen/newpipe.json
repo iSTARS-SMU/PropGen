@@ -1,0 +1,956 @@
+[
+  {
+    "description": "Open the side navigation menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101404",
+    "end_time": "20260305101425",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Search for videos or channels",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101426",
+    "end_time": "20260305101603",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a live stream to watch",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101604",
+    "end_time": "20260305101806",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open bookmarks/saved items",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305102403",
+    "end_time": "20260305102424",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to the Play Queue tab",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305102424",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create a new channel group",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305113755",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the \"NEW\" channel group",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103047",
+    "end_time": "20260305103203",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View all subscriptions (All group)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114158",
+    "end_time": "20260305114216",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open subscriptions options menu (import/export, etc.)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101835",
+    "end_time": "20260305101935",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Clear the current search query text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103007",
+    "end_time": "20260305103027",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open search screen overflow options menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103028",
+    "end_time": "20260305103046",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103341",
+    "end_time": "20260305103404",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert a suggestion into the search box without searching",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305102905",
+    "end_time": "20260305103006",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a video from the search results",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103404",
+    "end_time": "20260305103508",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a channel page from a search result",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103509",
+    "end_time": "20260305103528",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add the current stream to a playlist or queue",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305104409",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play the video in the background (audio continues)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305104857",
+    "end_time": "20260305105224",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the video in a floating popup player",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305105337",
+    "end_time": "20260305105631",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to another content tab (e.g., related videos)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305105225",
+    "end_time": "20260305105336",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the channel page from the channel name row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101813",
+    "end_time": "20260305101834",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Expand/collapse the video title/description area",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305105633",
+    "end_time": "20260305105702",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Subscribe to this channel",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103529",
+    "end_time": "20260305103550",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cast to a device (Chromecast)",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305103551",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Share this channel",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305104137",
+    "end_time": "20260305104407",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open channel options overflow menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112505",
+    "end_time": "20260305112527",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel About tab",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103204",
+    "end_time": "20260305103340",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel Playlists tab",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113044",
+    "end_time": "20260305113128",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel Live tab",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113129",
+    "end_time": "20260305113216",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel Shorts tab",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113217",
+    "end_time": "20260305113239",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel Videos tab",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113240",
+    "end_time": "20260305113301",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open play queue from mini-player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110455",
+    "end_time": "20260305110514",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Pause or resume playback from mini-player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113302",
+    "end_time": "20260305113323",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the mini-player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113324",
+    "end_time": "20260305113347",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open this channel/page in an external web browser",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305112528",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Video and audio settings category",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125608",
+    "end_time": "20260305125623",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Download settings category",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125641",
+    "end_time": "20260305125656",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Appearance settings category",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130709",
+    "end_time": "20260305130725",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Import a backup database to restore history, subscriptions, playlists, and settings",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260305101936",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Navigate back to the previous settings screen",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125624",
+    "end_time": "20260305125640",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable automatic update checks and notifications",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305122308",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch to the Bookmarked Playlists tab",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305105703",
+    "end_time": "20260305105938",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open History overflow menu for additional actions (e.g., clear history/settings)",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305113348",
+    "end_time": "20260305113713",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Change History view/filter (e.g., switch between Most Played and other modes)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305122815",
+    "end_time": "20260305122918",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play all items in the Most Played list",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305115025",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open a video from history by tapping its title row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112206",
+    "end_time": "20260305112401",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel page from a history item",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112402",
+    "end_time": "20260305112504",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel playlist creation and close the dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114257",
+    "end_time": "20260305114317",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Refresh the What's New feed to fetch latest updates",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114217",
+    "end_time": "20260305114234",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open What's New feed display/visibility options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114235",
+    "end_time": "20260305114256",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open help/info for the What's New screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114318",
+    "end_time": "20260305114345",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change playback speed (open speed selector from 1X).",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110514",
+    "end_time": "20260305110530",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Play Queue overflow menu for additional actions.",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111828",
+    "end_time": "20260305111846",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel avatar/profile image in a larger view",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305115706",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Scroll/read the channel About description text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115622",
+    "end_time": "20260305115705",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Like a comment",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305105940",
+    "end_time": "20260305110213",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the comments section for this stream",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110214",
+    "end_time": "20260305110238",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to the app's main feed/home via bottom navigation",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110239",
+    "end_time": "20260305110454",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the subscriptions tab via bottom navigation",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113714",
+    "end_time": "20260305113754",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the video details/description by tapping the video title area",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121721",
+    "end_time": "20260305121742",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the channel page by tapping the channel name row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121743",
+    "end_time": "20260305121804",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a commenter profile/channel from their avatar",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114937",
+    "end_time": "20260305115024",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add the current item to an existing playlist (select playlist).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120346",
+    "end_time": "20260305120552",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open/preview the selected playlist from the list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120239",
+    "end_time": "20260305120321",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Decrease tempo by 25% using the preset button",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110531",
+    "end_time": "20260305110548",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Increase tempo by 25% using the preset button",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110549",
+    "end_time": "20260305110606",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set tempo to 1x using the preset button",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110607",
+    "end_time": "20260305110641",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set tempo to 3x using the preset button",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110641",
+    "end_time": "20260305111016",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Adjust tempo using the slider control",
+    "source_activity": "PlayQueueActivity",
+    "status": "FAILED",
+    "start_time": "20260305111017",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Expand or collapse Pitch controls using the dropdown arrow",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111357",
+    "end_time": "20260305111414",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set pitch to 100% using the preset button",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111415",
+    "end_time": "20260305111431",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set playback tempo to 0.1x using the preset button",
+    "source_activity": "PlayQueueActivity",
+    "status": "FAILED",
+    "start_time": "20260305111432",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch playback from queue/player view to the main player screen",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111846",
+    "end_time": "20260305111903",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch playback to background mode (audio-only/background playback)",
+    "source_activity": "PlayQueueActivity",
+    "status": "FAILED",
+    "start_time": "20260305125031",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mute the current playback audio",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125509",
+    "end_time": "20260305125550",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open stream options/overflow menu for this video",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305111908",
+    "end_time": "20260305112205",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open comment options/overflow menu for the visible comment",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305121106",
+    "end_time": "20260305121448",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Share the current live stream via Android share sheet",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305123437",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the channel page from the channel name section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124033",
+    "end_time": "20260305124520",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start writing a new comment (open comment input/composer)",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305121449",
+    "end_time": "20260305121720",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle showing fully watched streams in the What's New feed",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114814",
+    "end_time": "20260305114937",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Apply the selected stream visibility filters",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305114346",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel and close the stream filter dialog without applying changes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123419",
+    "end_time": "20260305123436",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the video category page (browse more in this category).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120219",
+    "end_time": "20260305120239",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open options menu for a video item (e.g., add to playlist/download/share).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120322",
+    "end_time": "20260305120345",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Share this playlist via Android share sheet",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305120553",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open playlist overflow menu (playlist actions/options)",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305121805",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open playlist page overflow menu for additional actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305122919",
+    "end_time": "20260305122939",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play the entire playlist in background mode (audio-only).",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305123017",
+    "end_time": "20260305123418",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Play the entire playlist in a floating popup player.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305124521",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Clear the entire watch history list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305122940",
+    "end_time": "20260305123016",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the app Settings from the player overflow menu",
+    "source_activity": "PlayQueueActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125551",
+    "end_time": "20260305125607",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure the left-half player gesture action",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130503",
+    "end_time": "20260305130537",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure the right-half player gesture action",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130538",
+    "end_time": "20260305130708",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle switching players warning/queue replacement behavior",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260305125657",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle ignoring hardware media button events",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130118",
+    "end_time": "20260305130502",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the default playback resolution",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130817",
+    "end_time": "20260305130849",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the default popup player resolution",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130849",
+    "end_time": "20260305130921",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a maximum resolution when using mobile data",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130922",
+    "end_time": "20260305130956",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle showing higher (2K/4K) resolutions",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130726",
+    "end_time": "20260305130816",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the default video download/stream format",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130957",
+    "end_time": "20260305131030",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the default audio format",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131030",
+    "end_time": "20260305131104",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle preferring original audio track regardless of language",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131105",
+    "end_time": "20260305131122",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle preferring descriptive audio when available",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131123",
+    "end_time": "20260305131140",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle asking for a save location before each download",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131141",
+    "end_time": "20260305131230",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set which characters are allowed in downloaded filenames",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131230",
+    "end_time": "20260305131306",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel and close the \"Preferred 'open' action\" selection dialog",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130058",
+    "end_time": "20260305130117",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  }
+]

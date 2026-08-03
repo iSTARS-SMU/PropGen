@@ -1,0 +1,974 @@
+[
+  {
+    "description": "Create a new note",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227195220",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open navigation drawer menu",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227195632",
+    "end_time": "20260227200016",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Search notes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200016",
+    "end_time": "20260227200321",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change notes sorting/order",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200413",
+    "end_time": "20260227200500",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open more options menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200537",
+    "end_time": "20260227200550",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new checklist note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227223100",
+    "end_time": "20260227223213",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the note creation quick actions menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200322",
+    "end_time": "20260227200412",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add a reminder to the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200852",
+    "end_time": "20260227200925",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Attach a file or media to the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200925",
+    "end_time": "20260227201120",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark or unmark the note as favorite",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227201121",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add or edit tags/labels for the note",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227201505",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Share the note via other apps",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227201858",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Go back to the previous screen",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227200606",
+    "end_time": "20260227200836",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View note information/details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227202433",
+    "end_time": "20260227202451",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Discard unsaved note changes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205855",
+    "end_time": "20260227205924",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Lock the note to protect it",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227220839",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm the selected date and time",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227195615",
+    "end_time": "20260227195631",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel and close the date/time picker without saving",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227203049",
+    "end_time": "20260227203107",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the reminder date",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227204357",
+    "end_time": "20260227204415",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch between AM and PM",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205508",
+    "end_time": "20260227205522",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Adjust the hour value",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212658",
+    "end_time": "20260227212715",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Adjust the minute value",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205523",
+    "end_time": "20260227205607",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open time picker options menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205612",
+    "end_time": "20260227205626",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the note title text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212304",
+    "end_time": "20260227212333",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the note content/body text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227202521",
+    "end_time": "20260227202557",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the existing reminder details from the reminder row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227203028",
+    "end_time": "20260227203048",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Dismiss the release notes/changelog dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212354",
+    "end_time": "20260227212507",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Filter notes to show only checklist notes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227203545",
+    "end_time": "20260227203602",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Filter notes to show only favorite notes",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227203603",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert the suggested word into the title field",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227214605",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Assign or change the note category",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227202558",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open an existing note from the notes list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200836",
+    "end_time": "20260227200851",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort notes by reminder date",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200501",
+    "end_time": "20260227200532",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open reminder setup/details by tapping the note's reminder status row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212507",
+    "end_time": "20260227212540",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle reduced view mode for the notes list layout",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227200551",
+    "end_time": "20260227200605",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the note editor overflow menu to access additional actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227202358",
+    "end_time": "20260227202433",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Attach a video to the note",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227205059",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Record and attach an audio note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227210652",
+    "end_time": "20260227210722",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create and attach a sketch/drawing",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227211340",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert current location into the note",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227213359",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert a timestamp into the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227215401",
+    "end_time": "20260227215417",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Send the note to Pushbullet",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227215422",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the attached image preview in full screen/gallery view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227203107",
+    "end_time": "20260227203124",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Remove the current category from the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227202954",
+    "end_time": "20260227203027",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Move the current note to trash",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227215212",
+    "end_time": "20260227215320",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Archive the current note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224932",
+    "end_time": "20260227224949",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save the edited category settings",
+    "source_activity": "CategoryActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227215155",
+    "end_time": "20260227215211",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the category color",
+    "source_activity": "CategoryActivity",
+    "status": "FAILED",
+    "start_time": "20260227215829",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View note statistics (characters, words, images counts)",
+    "source_activity": "NoteInfosActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227202452",
+    "end_time": "20260227202509",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View the note's creation timestamp details",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227204416",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View the note's last updated timestamp details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227204826",
+    "end_time": "20260227204916",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create a new category from the categorize dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227204004",
+    "end_time": "20260227204210",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Share the currently viewed image via other apps",
+    "source_activity": "GalleryActivity",
+    "status": "FAILED",
+    "start_time": "20260227203125",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the image gallery/attachments list from the viewer",
+    "source_activity": "GalleryActivity",
+    "status": "FAILED",
+    "start_time": "20260227210929",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch notes list to expanded view layout",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227215019",
+    "end_time": "20260227215034",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the selected category (Test category) from the navigation drawer",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227204211",
+    "end_time": "20260227204321",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select an existing category from the list to categorize the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227214112",
+    "end_time": "20260227214128",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open reminder details for the note from the notes list reminder row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227204322",
+    "end_time": "20260227204356",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete all attachments from the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227204927",
+    "end_time": "20260227205000",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete the selected attachment from the note",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227210311",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm removal of the note reminder",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205437",
+    "end_time": "20260227205449",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the date picker by tapping the displayed date",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205713",
+    "end_time": "20260227205727",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set reminder to repeat every day",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205627",
+    "end_time": "20260227205656",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set reminder to repeat every week",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205815",
+    "end_time": "20260227205847",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set reminder to repeat every month",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227213009",
+    "end_time": "20260227213043",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set reminder to repeat every year",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227213319",
+    "end_time": "20260227213350",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open custom repeat schedule setup",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227213839",
+    "end_time": "20260227213855",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Dismiss the repeat options dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227220542",
+    "end_time": "20260227220559",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go to next month in the calendar",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205728",
+    "end_time": "20260227205743",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go to previous month in the calendar",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205743",
+    "end_time": "20260227205758",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open date picker overflow options menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227205759",
+    "end_time": "20260227205814",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to year selection view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227210805",
+    "end_time": "20260227210820",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a specific day from the calendar",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212544",
+    "end_time": "20260227212600",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the time picker by tapping the displayed time",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227210743",
+    "end_time": "20260227210801",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set reminder to not repeat (disable repeating schedule)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227220720",
+    "end_time": "20260227220754",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the current category filter to show all notes",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227205936",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort notes by creation date",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227223445",
+    "end_time": "20260227223506",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort notes by last modification date",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224852",
+    "end_time": "20260227224909",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play the attached video from the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227210723",
+    "end_time": "20260227210738",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a year for the reminder date from the year list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227210821",
+    "end_time": "20260227210835",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear/delete the entire sketch canvas",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227211655",
+    "end_time": "20260227211720",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Redo the last undone sketch action",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227211721",
+    "end_time": "20260227211844",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Undo the last sketch action",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227211845",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to eraser tool to erase parts of the sketch",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212208",
+    "end_time": "20260227212222",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to brush tool to draw on the canvas",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212222",
+    "end_time": "20260227212235",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm erasing the current sketch",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227214137",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch to hour selection mode in the time picker",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212642",
+    "end_time": "20260227212658",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to minute selection mode in the time picker",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212715",
+    "end_time": "20260227212732",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a specific minute value from the clock dial",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227212732",
+    "end_time": "20260227212748",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change repeat type from monthly using the repeat dropdown",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227213856",
+    "end_time": "20260227213928",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set the monthly repeat interval (e.g., every N months)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227213929",
+    "end_time": "20260227214104",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open category selection/management by tapping the current category title",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227215035",
+    "end_time": "20260227215154",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play the audio attachment directly from the note card",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227215320",
+    "end_time": "20260227215351",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Undo the last note deletion (restore the trashed note)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224950",
+    "end_time": "20260227225005",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm the new password entry",
+    "source_activity": "PasswordActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227221404",
+    "end_time": "20260227221423",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a password recovery answer",
+    "source_activity": "PasswordActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227222512",
+    "end_time": "20260227222715",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the password recovery question text",
+    "source_activity": "PasswordActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227221243",
+    "end_time": "20260227221324",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and apply password settings changes",
+    "source_activity": "PasswordActivity",
+    "status": "FAILED",
+    "start_time": "20260227221705",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Mark or unmark a checklist item as completed",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227223224",
+    "end_time": "20260227223243",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reorder checklist items by dragging the handle",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227223243",
+    "end_time": "20260227223439",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a new checklist item by typing in the \"New item\" row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224558",
+    "end_time": "20260227224640",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit an existing checklist item text (e.g., change \"Buy milk\")",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224641",
+    "end_time": "20260227224841",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Submit the entered password using the keyboard action key",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227223516",
+    "end_time": "20260227223739",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Directly edit the hour by tapping the hour readout",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227223806",
+    "end_time": "20260227223849",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Directly edit the minutes by tapping the minute readout",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260227223850",
+    "end_time": "20260227224057",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Select a specific minute value from the time picker dial",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224249",
+    "end_time": "20260227224308",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a weekday for the weekly repeating reminder (e.g., Monday).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227224347",
+    "end_time": "20260227224524",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open tags/labels screen to browse or filter notes by tag",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260227225026",
+    "end_time": "20260227225152",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  }
+]

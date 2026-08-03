@@ -1,0 +1,686 @@
+[
+  {
+    "description": "Search for music, albums, or playlists using the search bar.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307141515",
+    "end_time": "20260307141609",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open app settings.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307141610",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View listening history.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307143002",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View usage or listening statistics.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307143429",
+    "end_time": "20260307143637",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Scan device for local music files.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307143638",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open account/profile page.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307165554",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Filter/browse content by selecting a category chip (e.g., Podcasts).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142005",
+    "end_time": "20260307142025",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open a featured playlist/album from Today's hits.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142026",
+    "end_time": "20260307142106",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to a grid/collection view using the floating button.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142107",
+    "end_time": "20260307142427",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Navigate to Songs tab.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142428",
+    "end_time": "20260307142444",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to Folders tab.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142445",
+    "end_time": "20260307142503",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to Library tab.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142503",
+    "end_time": "20260307142520",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch search source/region using the globe icon.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142521",
+    "end_time": "20260307142728",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Return to the previous screen using the back arrow.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142729",
+    "end_time": "20260307142748",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change sorting order for local scanner list (e.g., by Name).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307144132",
+    "end_time": "20260307144232",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open local scanner overflow menu for additional actions/options.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307142749",
+    "end_time": "20260307143001",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch to Liked songs section within the library.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145548",
+    "end_time": "20260307145605",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to Downloaded songs section within the library.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145944",
+    "end_time": "20260307150002",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change local library sort criterion to \"Date added\".",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145923",
+    "end_time": "20260307145944",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add this playlist to another playlist.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151654",
+    "end_time": "20260307151751",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add this playlist to the current playback queue.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307151752",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play this playlist next in the queue.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307152633",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start a radio station based on this playlist.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307160008",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Shuffle-play this playlist.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161924",
+    "end_time": "20260307161942",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play the playlist from the beginning.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160444",
+    "end_time": "20260307160503",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Like or unlike this playlist.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307144232",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Browse library by Albums category",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155446",
+    "end_time": "20260307155504",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Browse library by Artists category",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155505",
+    "end_time": "20260307155540",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Browse library by Playlists category",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155541",
+    "end_time": "20260307155559",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle sort direction (ascending/descending) for the library list",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307150155",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Start auto-play for Liked songs",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154803",
+    "end_time": "20260307155027",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start auto-play for Downloaded songs",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307155600",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Now Playing screen from the mini-player track area",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307144038",
+    "end_time": "20260307144131",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Resume playback from the mini-player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307144642",
+    "end_time": "20260307145101",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Pause playback from the mini-player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145102",
+    "end_time": "20260307145123",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the music/now-playing view using the music-note icon.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145124",
+    "end_time": "20260307145208",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Clear the current search query text.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145209",
+    "end_time": "20260307145531",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the music/library section from the top-right icon.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145531",
+    "end_time": "20260307145547",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open more options menu for a recommended song in Quick picks.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307145606",
+    "end_time": "20260307145921",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Dismiss the \"Refreshing local media\" notification banner.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307150003",
+    "end_time": "20260307150154",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change local library sort criterion to \"Track number\".",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150547",
+    "end_time": "20260307150604",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change local library sort criterion to \"Play count\".",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150605",
+    "end_time": "20260307150623",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change local library sort criterion to \"Artist\".",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151102",
+    "end_time": "20260307151204",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the selected song's metadata/details.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160931",
+    "end_time": "20260307161230",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Download the selected song for offline listening.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162839",
+    "end_time": "20260307162857",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new playlist from the add-to-playlist dialog.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161350",
+    "end_time": "20260307161537",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit playlist details (name/cover) using the edit button.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307150624",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Lock or unlock the playlist (toggle privacy/lock state).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151205",
+    "end_time": "20260307151225",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the artist page from the artist name link.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307151226",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Like or unlike the song using the heart icon.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152239",
+    "end_time": "20260307152612",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the song overflow menu for additional actions.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152613",
+    "end_time": "20260307152632",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change playlist track ordering mode (e.g., custom order).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307153557",
+    "end_time": "20260307153639",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reorder tracks in the playlist using the drag/reorder handle.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153105",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Seek to a different position in the current song using the progress bar.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307161943",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Skip to the previous track.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153640",
+    "end_time": "20260307154058",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Skip to the next track.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154059",
+    "end_time": "20260307154518",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and save selected scan paths settings.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307154519",
+    "end_time": "20260307154802",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Reset scan paths selection to defaults.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307155028",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add a new folder to be scanned for local songs.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307160504",
+    "end_time": "20260307160703",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Start a manual local media scan",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307160704",
+    "end_time": "20260307160931",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle full rescan to reload metadata for all local songs",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307164701",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel adding the duplicate song to the playlist",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161231",
+    "end_time": "20260307161349",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add the song to the playlist anyway despite duplicates",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307162412",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Skip adding songs that are already in the playlist",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307162918",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and save the updated playlist name.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163356",
+    "end_time": "20260307163524",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel playlist name editing and close the dialog.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307164003",
+    "end_time": "20260307164226",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the Albums list overflow menu for additional actions/options.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161538",
+    "end_time": "20260307161923",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the Artists list overflow menu for additional actions/options.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307163525",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the current playback queue (Up next) list.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164227",
+    "end_time": "20260307164320",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the current track details page from the song title area.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164321",
+    "end_time": "20260307164700",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View the artist page from the action menu.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162858",
+    "end_time": "20260307162917",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View the album page for the selected song.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165254",
+    "end_time": "20260307165532",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a recommended song to view details/now playing by tapping the song row.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165149",
+    "end_time": "20260307165230",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open an alternate version of the song from the \"Other versions\" section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170628",
+    "end_time": "20260307170647",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the lyrics panel overlay.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170721",
+    "end_time": "20260307170738",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Collapse/expand the Now Playing view using the bottom chevron.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170740",
+    "end_time": "20260307170759",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  }
+]

@@ -1,0 +1,58 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+54,577,4347951,308532,4656483
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Complete onboarding by reviewing the display preferences and tapping Next to proceed into the main app.,3,SUCCESS,13518,826,14344,true,false
+Turn on daily auto-backup and proceed to the next onboarding step.,3,SUCCESS,13910,890,14800,true,true
+"Add your first expense transaction (e.g., a coffee purchase) in the Budget Book account.",9,SUCCESS,59731,3011,62742,true,true
+"Open the existing “Food > Bar” −$4.50 transaction and edit it to add a note (or adjust its category), then save the changes.",4,SUCCESS,26217,1486,27703,true,true
+"Create a monthly budget for the “Food” category (e.g., $150 for this month) and save it.",13,FAILURE,96721,6305,103026,true,false
+Create a reusable expense template for a “Coffee” purchase so you can add similar transactions faster next time.,13,FAILURE,107584,8140,115724,true,false
+"Complete and save a “Coffee” transaction template by filling in payee, category, and (optionally) a tag, then saving it.",8,SUCCESS,62678,3722,66400,true,true
+Use the “Coffee” template to create and save a new expense transaction for today.,5,SUCCESS,34191,2553,36744,true,true
+Use Search to filter transactions to only “Food” expenses and review the filtered results.,8,SUCCESS,47786,3581,51367,true,true
+Create a manual backup of your current expenses data and verify where it will be stored.,13,FAILURE,150101,11379,161480,true,false
+Create a manual backup of your current expenses data and confirm where it is saved.,13,FAILURE,142134,10842,152976,true,false
+Create a manual backup of your expenses data and confirm where it is saved.,13,FAILURE,133862,10184,144046,true,false
+Open the spending History view and check your expenses for the current month filtered to the Food category.,13,FAILURE,78741,4909,83650,true,false
+Open History help and use it to identify how to change the date range/period shown for the Food-filtered History view.,5,SUCCESS,31278,1919,33197,true,true
+"Change the History view to a different grouping (e.g., Weekly) and toggle “Show balance” to see how the cash flow display changes.",13,FAILURE,85334,6123,91457,true,false
+Toggle History display options to show balances/totals for the Food category and confirm the weekly view updates accordingly.,13,FAILURE,83192,6346,89538,true,false
+Toggle “Show totals” and “Show balance” in History and confirm the History view updates accordingly.,13,FAILURE,93353,7131,100484,true,false
+"Toggle “Include transfers” off and on once, then verify the setting persists by reopening the History options.",13,FAILURE,97950,7452,105402,true,false
+Create a manual backup/export of the current expenses data and confirm where it will be saved.,8,SUCCESS,43404,2899,46303,true,true
+Create a manual backup by opening the app’s settings/backup area and saving a backup to a chosen storage location.,5,SUCCESS,33122,1911,35033,true,true
+Verify restore options by opening “Restore” and selecting a backup source/location to confirm the app can find a backup file.,11,SUCCESS,59700,3460,63160,true,true
+Confirm restoring from the selected recent backup file to verify the restore workflow end-to-end.,3,SUCCESS,16210,1067,17277,true,true
+Create a simple monthly budget for the Food category for the current month.,11,SUCCESS,82439,4518,86957,true,true
+"Open the “Food (Monthly)” budget and update its allocated amount, then save the changes.",5,SUCCESS,50613,4052,54665,true,true
+Create a new monthly budget for “Transport” and set its currency by opening the currency selector.,13,FAILURE,102265,6728,108993,true,false
+Select “Monthly” as the budget period so you can proceed to save the “Transport” monthly budget.,1,SUCCESS,7907,306,8213,true,true
+Finalize and save the “Transport” monthly budget after briefly opening the Parties and Methods filters to see how budget scoping works.,5,SUCCESS,43032,3247,46279,true,true
+"Change the Budgeting “Grouping” to a different view (e.g., by period or by another grouping option) and confirm the budget list reorganizes accordingly.",13,SUCCESS,89907,6657,96564,true,true
+"Open the “Transport (Monthly)” budget and set a specific category allocation amount for this month (e.g., $300) to verify the budget detail workflow.",4,SUCCESS,46436,4214,50650,true,true
+"Add a new expense transaction for March 2026 from the Transport budget’s “Spent” view (e.g., a small Car-related expense).",13,FAILURE,165001,16318,181319,true,false
+"Add a new Transport-related expense transaction (e.g., “Gas” or “Taxi”) and categorize it as Car to make it show up under the Transport budget’s Spent amount.",13,SUCCESS,131510,9273,140783,true,true
+"Open Budgeting Help and follow it to set up a sync/backup backend (e.g., WebDAV/Dropbox/OneDrive) so budgets can be safely backed up automatically.",14,SUCCESS,75904,5057,80961,true,false
+"Configure WebDAV cloud storage by entering the server URL, username, and password, then confirm the setup.",13,FAILURE,97136,6623,103759,true,false
+Save the WebDAV configuration and verify that cloud backup/sync is enabled from the Backup/Restore settings.,13,FAILURE,92830,6148,98978,true,false
+Save the WebDAV configuration and verify in Backup / Restore settings that WebDAV cloud storage is selected and active.,13,FAILURE,97123,6523,103646,true,false
+Save the current WebDAV configuration and verify that WebDAV is selected and retained as the active cloud storage backend in Backup / Restore settings.,13,FAILURE,91986,6801,98787,true,false
+Discard the current unsaved WebDAV configuration and set up Dropbox cloud storage as the backup/sync backend.,16,FAILURE,96706,6005,102711,true,false
+Set up OneDrive as the cloud storage backend for backups and verify it is selected in Backup / Restore settings.,18,FAILURE,111679,7416,119095,true,false
+Confirm the backup now and return to the main screen to verify the backup completed successfully.,4,SUCCESS,25418,1425,26843,true,true
+"Add a new payment method (e.g., “Campus Card”) and set it as the method on a new test expense.",13,FAILURE,102498,6494,108992,true,false
+Attach a receipt image to this transaction and save it.,15,FAILURE,80713,5511,86224,true,false
+"Select an image from the phone in the picker to attach it as a receipt to the current expense, then save the expense.",15,FAILURE,86829,5730,92559,true,false
+Select an image file from the phone and finish saving the expense so it has a receipt attachment.,15,FAILURE,85732,5615,91347,true,false
+"Take a photo of a receipt and attach it to the current expense, then save the transaction.",13,FAILURE,103371,7248,110619,true,false
+Save the current transaction as a new template named “Fuel w/ receipt” and verify it appears in My templates.,13,FAILURE,103224,7414,110638,true,false
+"Save the current transaction with a receipt attachment by previewing the attached image, setting the amount via the calculator, and then saving (not “Save and new”).",13,FAILURE,116602,8213,124815,true,false
+Open the transaction editor help and find the guidance about saving templates and using “Original amount.”,5,SUCCESS,29963,1909,31872,true,true
+Create a new “Cash Wallet” account and set/verify its currency.,13,SUCCESS,127345,8667,136012,true,true
+Flag the currently selected transaction so it’s marked for follow-up and then exclude it from totals to see how it affects reporting/summary behavior.,13,FAILURE,71295,5266,76561,true,false
+Import a small set of transactions using the CSV import flow and confirm the import preview completes.,13,FAILURE,56438,3534,59972,true,false
+Start a CSV import and reach the import preview by selecting a CSV file from device storage.,13,FAILURE,48718,3366,52084,true,false
+Start a CSV import and reach the import preview screen without finalizing the import.,13,FAILURE,56607,3453,60060,true,false
+Start a CSV import and reach the import preview screen to validate columns before importing.,13,FAILURE,48659,3431,52090,true,false
+Create a new debt entry for “Lent to Alex” for $20 and save it.,13,FAILURE,56560,3798,60358,true,false

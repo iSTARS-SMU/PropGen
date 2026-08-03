@@ -1,0 +1,50 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+46,502,4800351,338435,5138786
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Search for a computer science study video and start playing the first result to bring up the playback/queue interface.,11,SUCCESS,89262,4854,94116,true,true
+Add the currently playing lecture to a new playlist for later study.,7,SUCCESS,35242,2311,37553,true,true
+Open the current queue item’s options and start downloading the lecture for offline viewing.,8,SUCCESS,42807,2784,45591,true,true
+"Change the lecture playback speed from 1X to a faster speed (e.g., 1.25X or 1.5X) and confirm it takes effect.",3,SUCCESS,18093,1075,19168,true,true
+Open the downloads screen and verify that the lecture download you started is listed as in progress (or completed).,13,FAILURE,96127,6097,102224,true,false
+Open Downloads from the navigation drawer and confirm the previously started lecture download is listed (in progress or completed).,1,SUCCESS,9237,425,9662,true,true
+Open the finished download’s “more” menu and try to play or open the downloaded video file from there.,14,FAILURE,88223,6155,94378,true,false
+Delete the completed lecture download from your device to free up storage.,1,SUCCESS,6379,420,6799,true,true
+Restore the deleted lecture download using UNDO and then open the restored item to see what actions are available for a downloaded file.,13,FAILURE,89413,6172,95585,true,false
+"Open the app’s About screen from the navigation drawer and review the key app information (version, license, and links).",7,SUCCESS,59292,2778,62070,true,true
+Open NewPipe’s official website from the About & FAQ page and return to the app after the link loads.,18,FAILURE,113791,7344,121135,true,false
+"Try to subscribe to the current “Churchill College, University of Cambridge” lecture channel (or the video) and proceed through any verification prompt if it appears.",5,SUCCESS,43816,2829,46645,true,true
+Open the channel’s RSS feed and try to copy/share the feed link to another app.,20,FAILURE,118051,7452,125503,true,false
+Open the current mini-player’s play queue and remove the duplicate lecture entry (or clear the queue) to tidy up playback.,13,FAILURE,134822,7778,142600,true,false
+Open a video from the subscribed channel’s **VIDEOS** tab and start playing it in the background to build a fresh play queue.,13,FAILURE,172204,10586,182790,true,false
+Export the “CS Lectures” playlist to a file on your device.,13,FAILURE,166330,10108,176438,true,false
+Open the “CS Lectures” bookmarked playlist and export/share it to a file (or copy/share its link) from the playlist’s options.,17,FAILURE,98104,7052,105156,true,false
+Remove duplicate entries from the “CS Lectures” playlist using the playlist’s More options menu.,12,FAILURE,56959,4074,61033,true,false
+Re-download the “Computer Science Lecture 21st June 2021 Professor Ronald Rivest” video from the “CS Lectures” playlist and confirm it appears in the Downloads list.,7,SUCCESS,50803,3338,54141,true,true
+Clear the download history for finished downloads and confirm whether the downloaded lecture entry disappears from the Downloads list.,2,SUCCESS,12674,716,13390,true,true
+Return to the main screen and start downloading a new lecture video again to trigger the storage/location picker flow.,13,FAILURE,115796,8195,123991,true,false
+Search for a specific lecture and open one result to start playback from the search results.,13,FAILURE,154674,11141,165815,true,false
+"Open “What’s New” and read the latest release notes, then follow one in-app link or action from that screen to see where it routes.",13,FAILURE,108616,6684,115300,false,false
+Enable “Ask where to download” in Download settings and start a new download to trigger a folder/location picker.,8,SUCCESS,60438,3836,64274,true,true
+"Save the current download to the Downloads folder using the file picker, then return to NewPipe and verify the download appears in the Downloads list.",7,SUCCESS,81566,5044,86610,true,true
+Open the “Computer Science Lecture 21st June 2021 Professor Ronald Rivest.mp4” download by tapping its list entry and start playback (or reach the file-open flow).,16,FAILURE,137262,9316,146578,true,false
+Search for a new video from the Main screen and start downloading it while choosing a custom save location when prompted.,12,SUCCESS,88758,5490,94248,true,true
+"Filter the subscription feed to hide already-played items, then open a new video from the refreshed list and start playback.",13,FAILURE,157925,11170,169095,true,false
+"Adjust playback settings by changing the video quality and playback speed, then open the Chapters list and jump to a section.",13,FAILURE,206483,15506,221989,true,false
+"Long-press a “What’s New” feed video and share its link to another app (e.g., copy to clipboard or open in a browser) to test NewPipe’s routing/share flow.",17,FAILURE,161341,12737,174078,true,false
+Start this video in Popup mode and confirm the floating player works while you continue browsing the feed.,13,FAILURE,164765,12798,177563,true,false
+Add the currently open “Virtual student led tour of Churchill College” video to a new playlist named “Churchill Tours” (or similar) and confirm it was saved.,13,FAILURE,97536,7824,105360,true,false
+Start a download for the current video and choose a custom save location/name in the system file picker before confirming the download.,13,FAILURE,188123,15431,203554,true,false
+Start a download for the current video and choose a custom save destination/name in the system save dialog.,13,FAILURE,154493,11868,166361,true,false
+Save the current download to the SDCARD location with a clear filename and start the download.,13,SUCCESS,101173,6696,107869,true,true
+Switch the download to **Audio** and start an audio-only download using the current dialog (adjusting format/quality if needed).,4,SUCCESS,41083,2979,44062,true,true
+Enable Fast mode for the “What’s New” feed and refresh the feed to confirm it loads under the new mode.,3,SUCCESS,26541,1798,28339,true,true
+Long-press a “What’s New” feed video and choose **Open in browser** to verify the external routing flow.,19,FAILURE,140474,10557,151031,true,false
+Add this video to a new playlist named “Churchill Tours” and confirm it appears in that playlist.,13,SUCCESS,121226,9353,130579,true,true
+Start background playback of the “Churchill Tours” playlist and confirm the queue/player appears.,4,SUCCESS,36766,2524,39290,true,true
+Open the currently queued video in an external browser from the Play queue item’s context menu.,15,FAILURE,145996,10470,156466,true,false
+Share the “Churchill Tours” playlist as a YouTube temporary playlist (or URL list) and confirm the share sheet opens with a link ready to send/copy.,18,FAILURE,99565,8436,108001,true,false
+Share the current playlist using “SHARE WITH TITLES” and attempt to complete the share by selecting a destination app (or copy action) so the playlist info is actually exported.,20,FAILURE,99546,8150,107696,true,false
+Start popup playback of the “Churchill Tours” playlist and confirm you can keep the video playing while leaving the playlist screen.,14,FAILURE,180642,13944,194586,true,false
+Open the uploader’s channel page from the current video and try subscribing/unsubscribing (or viewing channel details) to confirm the channel screen works end-to-end.,2,SUCCESS,29760,1926,31686,true,true
+"Start background playback for this channel’s videos using the **Background** button, then open the **Play queue** from the mini-player overlay to confirm the queue is populated and controllable.",2,SUCCESS,28479,1882,30361,true,true

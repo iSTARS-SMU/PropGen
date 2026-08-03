@@ -1,0 +1,52 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+48,522,5026874,333137,5360011
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Complete the intro walkthrough to reach the main screen and grant any requested storage permission.,6,SUCCESS,24793,1829,26622,true,true
+Create a QuickNote with a short “today’s tasks” checklist and save it.,13,FAILURE,119211,6211,125422,true,true
+"Switch to Files, locate the saved QuickNote (or create a new note file if needed), and open it to confirm the content persists.",2,SUCCESS,13774,787,14561,true,true
+"Clean up the “QuickNote” note by converting “Today’s tasks” into a proper heading and adding at least two checklist-style items, then preview the result.",13,FAILURE,122458,6518,128976,true,false
+"Add two checklist items under “## Today’s tasks”, save the note, and open View mode to confirm the checklist renders correctly.",13,FAILURE,120383,6540,126923,true,false
+"Add two checklist items under “## Today’s tasks”, save the note, and open View mode to confirm the formatting.",13,FAILURE,123757,6631,130388,true,false
+"Add two checklist items under “## Today’s tasks”, then save and open View mode to verify they render as checkboxes.",13,FAILURE,137347,7829,145176,true,false
+"Add two checklist items under “## Today’s tasks”, then preview them in View mode and save the note.",13,FAILURE,130840,7620,138460,true,false
+"Add two checkbox to-do items under “## Today’s tasks” in QuickNote, then save and preview them in View mode.",13,FAILURE,127834,7479,135313,true,false
+Save the current QuickNote and open View mode to confirm the heading renders correctly.,2,SUCCESS,15559,999,16558,true,true
+"Share the current QuickNote using “Open with” to send it to another app (e.g., email or a messaging app).",6,SUCCESS,35253,2487,37740,true,true
+"Copy the shared “## Today’s tasks” text to the clipboard from the Share chooser, then return to Markor.",1,SUCCESS,6662,315,6977,true,false
+"Open the app settings from the document’s More options menu and change one editor-related setting (e.g., enable/disable a formatting or preview behavior).",13,FAILURE,90037,6388,96425,true,false
+Open the file browser from the current document and create a new To-Do note with two checkbox items.,13,FAILURE,145348,8198,153546,true,false
+"Add a second checkbox item to the current To-Do note, then save and preview it in View mode to confirm both items render as checkboxes.",13,FAILURE,156266,8493,164759,true,false
+"Open the Settings screen from the More tab and change one simple preference (e.g., editor or storage-related), then return to the main tabs.",6,SUCCESS,38366,2149,40515,true,true
+"Create a new to-do note with two checkbox items in the To-Do tab, then save and preview it in View mode.",13,FAILURE,139361,8382,147743,true,false
+Create a new To‑Do note with two checkbox items and preview it in View mode.,13,FAILURE,147073,10265,157338,true,false
+Create a new To‑Do note and pin it as a home-screen shortcut/widget for quick access.,13,FAILURE,112298,8078,120376,false,false
+Export the current note as a PDF using the “Print / PDF” share option and save it to the phone.,15,SUCCESS,96288,6644,102932,true,true
+Create a home-screen shortcut (or widget) that opens Markor directly into a To-Do note for quick task capture.,13,FAILURE,106232,7434,113666,false,false
+"Turn on **Line numbers** in File settings, then go back to the To‑Do note and verify the line numbers appear in the editor.",1,FAILURE,7997,327,8324,false,false
+"Switch to QuickNote and create a new quick note with two lines (a title and one bullet), then save and preview it.",13,FAILURE,175722,11571,187293,true,false
+"Create a new To‑Do note with two checkbox items for your research plan, then save it and switch to View mode to confirm the checkboxes render.",7,SUCCESS,80475,5608,86083,true,false
+Open the current To‑Do note in another app using the “Open with” action.,1,SUCCESS,10234,574,10808,true,true
+Open the current note using **HTML Viewer** from the “Open with” chooser to check how the note renders outside Markor.,4,SUCCESS,18915,1160,20075,true,true
+Create a home-screen shortcut or widget that opens directly into your “todo.txt” (or a To‑Do note) from Markor.,13,FAILURE,98352,6968,105320,false,false
+Share a short piece of text from another app into Markor to create/open a note via the “Share into Markor” flow and save it.,14,FAILURE,116763,8607,125370,false,false
+"Create a brand-new QuickNote from the QuickNote tab, add a short 2-line note (a title and one bullet), then save and preview it in view mode.",13,FAILURE,176412,11862,188274,true,false
+Share a snippet of text from another app into Markor to create a new note and confirm it opens in the editor.,13,SUCCESS,73004,5179,78183,false,false
+"Change the floating “Create” button behavior so it creates a To‑Do item by default, then return to Files to confirm the change is applied.",13,FAILURE,95844,6225,102069,false,false
+Enable a visible View mode display option in Settings and then return to a note to confirm the rendered preview reflects the change.,10,FAILURE,73626,5289,78915,true,false
+Share a short piece of text from another app into Markor to create a new note and then open that newly created file from Markor’s file list.,16,FAILURE,114030,7505,121535,false,false
+Change the floating “Create” button’s default action to open a new To‑Do note.,13,FAILURE,105679,7435,113114,false,false
+"Open the **todo.txt** format settings and change one To‑Do behavior (e.g., enable/disable a display or sorting-related option) so it affects how To‑Do notes are shown/handled.",13,FAILURE,103796,7224,111020,true,false
+Open the ActionButton settings for todo.txt and reorder the To‑Do action buttons so your most-used action appears first.,13,FAILURE,89202,4598,93800,true,true
+Create a new note by sharing a short piece of text into Markor from the Android share sheet and then reopen it from Markor’s file list to confirm it was saved.,21,FAILURE,128050,8762,136812,false,false
+Create a new Markdown note named “Share Test” and share it to another app using Android’s share sheet.,14,FAILURE,103167,7183,110350,true,true
+Check the current note’s file details by opening its Info screen and identifying its full path and last modified time.,1,SUCCESS,9320,526,9846,true,true
+Mark “Share Test.md” as a Favourite from the Info screen and confirm it stays marked after closing the dialog.,5,SUCCESS,33729,2050,35779,true,false
+"Use Search to find a keyword in “Share Test.md” and replace it with updated text, then save and verify the change in View mode.",13,FAILURE,91880,6836,98716,false,false
+"Apply a Search/Replace preset to convert all completed checklist items (“[x]”) back to unchecked (“[ ]”) in the current note, then verify the change in the document.",13,FAILURE,96948,7854,104802,false,false
+"Add a short “Meeting notes” section to “Share Test.md” using a Heading and an ordered list, then save and verify it in View mode.",13,FAILURE,164801,11480,176281,true,false
+"Save “Share Test.md”, switch to View mode to confirm the formatting, then return to the Main screen and open the QuickNote editor to add a second bullet line and save it.",13,FAILURE,153792,11062,164854,true,false
+"Create two items in the To‑Do list and mark one of them as done, then sort the list to verify the change.",13,FAILURE,168626,11247,179873,true,false
+"Add a new to-do item, set a due date/time for it, assign a priority, and then sort the list by that priority.",13,SUCCESS,144023,10867,154890,true,false
+Confirm the selected date in the picker to set a due date/time for the current to-do item and then verify the change in the to-do list.,13,FAILURE,134361,10501,144862,true,false
+"Create and save a QuickNote with two bullet points, then switch it to View mode to confirm it rendered correctly.",13,FAILURE,206083,13660,219743,true,false

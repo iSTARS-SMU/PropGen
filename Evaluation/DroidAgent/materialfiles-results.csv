@@ -1,0 +1,51 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+47,459,4609808,337619,4947427
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Open the DCIM folder and view an image file to test the built-in viewer.,13,FAILURE,91539,5762,97301,true,true
+"Add a new storage location (e.g., a document tree) from the navigation drawer and open it to browse its files.",13,SUCCESS,88748,6172,94920,true,true
+Grant Material Files access to a storage location (preferably SDCARD) so you can browse its files in the app.,5,SUCCESS,32338,2241,34579,true,true
+Create a new text file in the SDCARD Download folder and open it to edit a short note.,10,SUCCESS,59311,3803,63114,true,true
+Create a renamed copy of the current note using “Save as”.,13,FAILURE,71367,5600,76967,false,false
+Return to the folder view and create a renamed copy of “short_note.txt” using the file actions (copy/duplicate/rename).,6,SUCCESS,39870,2831,42701,true,true
+"Return to the folder view and rename “short_note (1).txt” to a cleaner name, then try sharing it to confirm export options.",9,SUCCESS,58564,4294,62858,true,true
+Use **Material Files → Save as** from the share chooser to export “short_note_copy.txt” into a different folder with a new filename.,4,SUCCESS,27401,1873,29274,true,false
+Open the navigation drawer and visit Settings and About to review key options and app information.,14,FAILURE,166152,12626,178778,true,false
+Start the app’s FTP server and note the connection address so you can access the SDCARD files from another device on the same Wi‑Fi.,2,SUCCESS,18513,1118,19631,true,false
+Copy the FTP server URL and then return to the file list to confirm what storage will be shared.,3,SUCCESS,13931,885,14816,true,true
+Open the app’s Settings from the FileList and review key options (then open About to confirm app details).,7,SUCCESS,65016,4239,69255,true,true
+Open the Licenses screen from About and view at least one library’s license details.,14,SUCCESS,136883,4979,141862,true,true
+Add a new LAN SMB server shortcut and save it with placeholder connection details.,13,FAILURE,103595,6279,109874,false,false
+Save this SMB server as a shortcut by entering a password (and optional domain) and tapping **ADD**.,3,SUCCESS,23975,1415,25390,false,false
+Open the saved SMB server shortcut and try to browse its root directory to confirm the connection works.,2,FAILURE,21124,1440,22564,true,false
+Resolve the failing SMB connection by opening its options and either editing the server address or removing the shortcut.,13,FAILURE,133043,10456,143499,true,false
+Open “short_note_exported.txt” using the “Open with” option and choose a different app/type so the app prompts for “Open as” and proceeds to open the file through that flow.,5,SUCCESS,29027,1973,31000,true,true
+Create a renamed copy of “short_note_exported.txt” using the app’s “Save as” flow from the file list (not from inside the editor/viewer).,13,SUCCESS,119075,8886,127961,true,true
+Add a WebDAV server shortcut from “Add storage” and save it so it appears in the storage list.,13,FAILURE,136923,9073,145996,true,true
+"Change the file list’s view mode and sorting order (e.g., switch between list/grid and sort by name/date) and confirm the file list updates.",13,FAILURE,137716,10455,148171,true,false
+Open the Screenshots (or Pictures) folder and view an image file to confirm the built-in image viewer works.,13,FAILURE,134554,11090,145644,true,false
+Refresh the file list and open an existing file from Internal shared storage (preferably an image or document) to confirm browsing works again.,13,FAILURE,147306,11092,158398,true,false
+"View the selected file’s properties to confirm its exact path, size, and last modified time.",2,SUCCESS,13430,733,14163,true,true
+Review the file’s permissions and generate its checksums from the Properties screen for “short_note_exported_copy.txt.”,3,SUCCESS,20145,1134,21279,true,true
+"Create a new text file in the current Download folder and open it to add a short note, then save it.",13,FAILURE,139497,10826,150323,true,false
+"Open the current text file using **Material Files → Edit**, add a short note with today’s timestamp, and save it (using “Save as” only if prompted).",13,FAILURE,116811,8548,125359,true,false
+"Save the current note, return to the Downloads file list, and rename “short_note_exported.txt” to a cleaner name like “seminar_todo.txt” using the file’s rename/edit action.",6,SUCCESS,44058,3099,47157,true,true
+Create a password-protected ZIP archive from “seminar_todo.txt” and save it in the current folder.,4,SUCCESS,37353,2476,39829,true,true
+Open the “seminar_todo.txt.zip” archive and extract its contents back into the current folder using the known password.,3,SUCCESS,29544,2057,31601,true,true
+Open the password-protected “seminar_todo.txt.zip” archive and extract its contents again by entering the archive password when prompted.,13,FAILURE,133475,10258,143733,true,false
+Add the current Download folder as a bookmark and then open the bookmark list to confirm it appears.,13,FAILURE,204083,16386,220469,true,false
+"Open “new_note.txt” using **Open as → Text editor**, add a short note with today’s date/time, and save it.",9,SUCCESS,68801,4879,73680,true,true
+Create a new folder in Download and move “new_note.txt” into it (renaming if prompted).,13,SUCCESS,173295,13006,186301,true,true
+Open the bookmarks list and rename the newly added bookmark to “Seminar (Downloads)” for easier access later.,13,FAILURE,195562,16354,211916,true,false
+Remove the broken WebDAV storage shortcut and switch back to Internal shared storage so local files/folders load normally again.,13,SUCCESS,232825,18574,251399,true,true
+Extract the password-protected “seminar_todo.txt.zip” and confirm the extracted text file appears in the target folder.,13,FAILURE,105225,7392,112617,true,false
+Extract the password-protected “seminar_todo.txt.zip” and open the extracted “seminar_todo.txt” to confirm the contents.,13,FAILURE,98488,6773,105261,true,false
+"Open “short_note_copy.txt” using **Open with → Material Files → Open as… → Text** so it opens in the built-in text editor, then make a small edit and save.",13,FAILURE,103939,7095,111034,true,false
+Save the current edits to “short_note_copy.txt” and return to the file list to confirm the saved file is accessible.,5,SUCCESS,35924,2455,38379,true,true
+Share “short_note_copy.txt” and save a duplicate copy using the system “Save as” flow into the Download folder with a new name.,13,SUCCESS,129587,9340,138927,true,true
+Extract the password-protected “seminar_todo.txt.zip” into the Download folder and confirm the extracted “seminar_todo.txt” appears.,13,FAILURE,103013,7507,110520,true,false
+Create a new image file (or use an existing one) and open it to preview it in the built-in image viewer.,13,FAILURE,112815,8350,121165,true,false
+Preview the `test.png` file in the Pictures folder using Material Files’ built-in image viewer.,13,FAILURE,86715,6385,93100,true,false
+Delete the zero-byte test image file “test.png” from the Pictures folder and confirm it’s removed.,5,SUCCESS,31422,2140,33562,true,true
+Extract the password-protected “seminar_todo.txt.zip” into the current folder and complete the password prompt.,13,FAILURE,141048,11095,152143,true,false
+Open **short_note.txt** using **Open with → Open as…** and preview it in the **read-only file viewer** instead of the text editor.,13,FAILURE,100989,7810,108799,true,false

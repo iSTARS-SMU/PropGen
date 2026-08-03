@@ -1,0 +1,57 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+53,660,4518310,324493,4842803
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Complete the intro walkthrough until you reach the main notes screen.,6,SUCCESS,24814,2091,26905,true,true
+"Create a new note with a title and a short body, then open its info/details screen to review metadata.",6,SUCCESS,32971,2210,35181,true,true
+Set up an app lock by enabling a password from Settings.,13,FAILURE,76946,5385,82331,true,false
+Open the app’s Statistics screen and review your note counts/usage metrics.,1,SUCCESS,6761,404,7165,true,true
+"Create a new “Lab Checklist” note and file it under a newly created category (e.g., “Grad School”).",13,FAILURE,85890,6346,92236,true,false
+Create a new category named “Grad School” and assign it to the current note.,13,SUCCESS,71834,5521,77355,true,true
+Set a reminder for the “Lab Checklist” note for an upcoming time so you’ll be notified before your next lab session.,4,SUCCESS,24218,1649,25867,true,true
+Attach a photo to the “Lab Checklist” note from the Attachment option.,15,FAILURE,77384,5039,82423,true,false
+Attach an image from your phone to the “Lab Checklist” note by selecting a file from the current picker (preferably via Photos/Images).,14,FAILURE,89317,5335,94652,true,false
+Attach one of the visible recent PNG images to the “Lab Checklist” note and confirm it appears in the note.,15,FAILURE,95779,5160,100939,true,false
+Record a short voice note and attach it to the current note.,3,SUCCESS,17853,1247,19100,true,true
+Add a couple of descriptive tags to the “Lab Checklist” note and verify they appear on the note.,13,FAILURE,93963,6876,100839,true,false
+Create a home-screen shortcut for the “Lab Checklist” note from the note’s More options menu.,19,FAILURE,102097,7510,109607,true,false
+Lock the “Lab Checklist” note and complete any password/PIN setup prompt that appears.,13,FAILURE,106196,7014,113210,true,false
+Finish setting and saving the note password by completing the required fields and tapping **OK**.,11,SUCCESS,90566,6126,96692,true,true
+"Share the “Lab Checklist” note’s contents to another app (e.g., email or messaging) using the Share action.",1,FAILURE,9828,517,10345,true,false
+"Send the attached audio file to yourself via Gmail from the share chooser, then return to Omni Notes.",19,FAILURE,88593,5957,94550,true,false
+Add a home-screen widget that shows or opens the “Lab Checklist” note for quick access.,16,FAILURE,92874,6860,99734,true,false
+Add a home-screen widget that opens the “Lab Checklist” note.,20,FAILURE,91108,6845,97953,true,false
+Add a home-screen widget that opens the “Lab Checklist” note for quick access.,18,FAILURE,96838,7092,103930,true,false
+Open the About screen and review the app version and key info.,13,FAILURE,98050,5656,103706,true,true
+Open the Online manual from Settings and use it to find the instructions for adding a home-screen widget or shortcut for a note.,24,FAILURE,98856,6924,105780,true,false
+Open the Changelog from Settings and read through the latest updates to identify any new features or navigation hints.,5,SUCCESS,33473,2268,35741,true,true
+Create a home-screen widget that opens the “Lab Checklist” note for quick access.,20,FAILURE,94529,6819,101348,true,false
+Unlock the “Lab Checklist” note and create a home-screen shortcut that opens it.,15,FAILURE,102956,7519,110475,true,false
+Search for “Research” and open the “Research To-Do” note to review and update its content.,13,FAILURE,121791,9222,131013,true,false
+Set a reminder on the “Research To-Do” note and then adjust its snooze settings for that reminder.,13,FAILURE,97432,7391,104823,true,false
+Open the existing reminder on “Research To-Do” and adjust its snooze settings before confirming the reminder.,13,FAILURE,107909,8420,116329,true,false
+Adjust the default reminder snooze settings so future reminders on your notes behave the way you want.,8,SUCCESS,54962,3955,58917,true,true
+Adjust the reminder snooze behavior by opening the Snooze settings and changing the snooze duration/options for note reminders.,11,FAILURE,83223,5887,89110,true,false
+Turn on Instant search in Settings and use it from the main notes screen to quickly find and open the “Research To-Do” note.,13,SUCCESS,107208,7833,115041,true,true
+Create a new photo note from the main screen and confirm the image appears in the in-app Gallery view.,6,SUCCESS,41013,3009,44022,true,true
+"Share the currently viewed photo from the Gallery to another app (e.g., Gmail or Drive) to confirm the attachment can be exported.",14,FAILURE,64517,4203,68720,true,false
+Configure the reminder snooze options in Settings so future note reminders can be snoozed the way you prefer.,13,FAILURE,100240,7781,108021,true,false
+Adjust the reminder snooze settings so note reminders can be snoozed with your preferred duration/options.,13,FAILURE,96232,7098,103330,true,true
+"Open the Statistics screen and identify at least two core features you haven’t used yet (e.g., checklists, attachments, locked notes, categories) to decide what to try next.",2,SUCCESS,18105,1142,19247,true,true
+Add an Omni Notes home-screen widget that shows a note list (or opens a specific note) and complete its configuration.,23,FAILURE,105917,7736,113653,true,false
+Create a home-screen shortcut that opens Omni Notes directly into creating a new checklist note.,14,FAILURE,105755,8378,114133,true,false
+Add an Omni Notes home-screen widget that shows your notes list (or a specific note if offered) and complete its in-app configuration.,22,FAILURE,105045,8041,113086,true,false
+Create an in-app shortcut for the “Research To-Do” note using the app’s Shortcut feature.,13,FAILURE,104368,8180,112548,true,false
+Pin the current note and then archive it to learn how Omni Notes organizes important and inactive notes.,13,FAILURE,114307,8949,123256,true,true
+Convert the current note into a checklist and add at least two checklist items for a “Today’s grad school tasks” list.,3,SUCCESS,30994,1870,32864,true,true
+"Add a new tag (e.g., “grad-research”) to the current checklist note and confirm it’s applied.",13,FAILURE,108083,6890,114973,true,false
+Attach a file to the current checklist note using the Attachment menu (preferably via “Files”) and confirm it appears in the note.,14,FAILURE,89818,5127,94945,true,false
+Attach one of the recent PNG images from the current file picker to the note and verify it appears as an attachment back in Omni Notes.,15,FAILURE,100009,5689,105698,true,false
+Attach one photo from the current “Select photos” picker to the note and verify it appears in Omni Notes.,15,FAILURE,100723,6211,106934,true,false
+Add an Omni Notes home-screen widget for the “Research To-Do” checklist and configure it so it shows that note (or opens it) from the home screen.,22,FAILURE,104858,8456,113314,true,false
+Add an Omni Notes home-screen widget and complete its configuration to display a chosen note or note list.,21,FAILURE,107178,8949,116127,true,false
+Configure the default reminder snooze duration/options so future note reminders snooze the way you want.,9,FAILURE,69305,5312,74617,true,false
+Turn on Automatic location so new notes automatically capture a location.,1,SUCCESS,9345,422,9767,true,true
+Create a quick reminder note and snooze its notification to test the snooze workflow.,13,FAILURE,109131,7884,117015,true,false
+Confirm the selected reminder date/time and set the note to repeat daily so you can test reminder behavior later.,5,SUCCESS,35247,2551,37798,true,true
+Wait for the “Snooze test” reminder notification to appear and use it to open the snooze options and snooze the reminder once.,15,FAILURE,100512,7504,108016,true,false

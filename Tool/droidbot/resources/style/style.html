@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Bug Report</title>
+        <style>
+            /* 页面与截图列表样式 */
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 16px 16px 40px 16px;
+                text-align: center;
+            }
+            #menu {
+                width: 100%;
+                overflow-x: auto;
+                overflow-y: hidden;
+                white-space: nowrap;
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+            #menu li {
+                display: inline-block;
+                box-sizing: border-box;
+                width: 250px;
+                margin-right: 20px;
+                vertical-align: top;
+                text-decoration: none;
+            }
+            .img {
+                width: 250px;
+                height: 400px;
+                object-fit: contain;
+                background: #fff;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+            .caption { white-space: normal; word-break: break-word; margin: 6px 0 0 0; font-size: 14px; }
+            .feature-text { white-space: normal; word-break: break-word; margin: 4px 0 0 0; font-size: 12px; color: #333; text-align: left; }
+            .llm-section { margin-top: 6px; text-align: left; }
+            .llm-block { margin: 6px 0; padding: 6px; background: #fafafa; border: 1px solid #eee; border-radius: 4px; }
+            .llm-stage { font-weight: bold; font-size: 12px; color: #555; margin-bottom: 4px; }
+            .llm-raw, .llm-parsed { white-space: pre-wrap; word-break: break-word; font-size: 12px; color: #333; margin: 0; }
+
+            /* 顶部同步滚动条（无绿色标记，仅原生滚动条可见） */
+            .top-scroll-wrapper { position: sticky; top: 0; background: #fff; z-index: 100; padding: 6px 0; border-bottom: 1px solid #e5e5e5; }
+            #top-scroll { width: 100%; overflow-x: auto; overflow-y: hidden; height: 18px; background: #fafafa; border-radius: 4px; }
+            #top-scroll-spacer { height: 2px; display: block; }
+            /* 自定义滚动条外观（WebKit） */
+            #top-scroll::-webkit-scrollbar { height: 12px; }
+            #top-scroll::-webkit-scrollbar-track { background: #eee; border-radius: 6px; }
+            #top-scroll::-webkit-scrollbar-thumb { background: #bbb; border-radius: 6px; border: 2px solid #eee; }
+            #top-scroll::-webkit-scrollbar-thumb:hover { background: #999; }
+            /* Firefox 滚动条颜色 */
+            #top-scroll { scrollbar-color: #bbb #eee; scrollbar-width: thin; }
+        </style>
+</head>
+<body>
+    <h2>截图列表 (Screenshots)</h2>
+    <div class="top-scroll-wrapper">
+        <div id="top-scroll"><div id="top-scroll-spacer"></div></div>
+    </div>
+    <ul id="menu"></ul>
+    <hr>
+
+        <script>
+        const menu = document.getElementById('menu');
+        const topScroll = document.getElementById('top-scroll');
+        const spacer = document.getElementById('top-scroll-spacer');
+
+        // 创建标记容器
+        const markerContainer = document.createElement('div');
+        markerContainer.id = 'top-marker-container';
+        markerContainer.style.position = 'absolute';
+        markerContainer.style.left = '0';
+        markerContainer.style.top = '0';
+        markerContainer.style.right = '0';
+        markerContainer.style.bottom = '0';
+        markerContainer.style.pointerEvents = 'none';
+        topScroll.appendChild(markerContainer);
+
+        function syncFromTop(){ menu.scrollLeft = topScroll.scrollLeft; highlightActiveMarker(); }
+        function syncFromMenu(){ topScroll.scrollLeft = menu.scrollLeft; highlightActiveMarker(); }
+        topScroll.addEventListener('scroll', syncFromTop);
+        menu.addEventListener('scroll', syncFromMenu);
+
+        let adjustTimer = null;
+        function adjust(){
+            if (adjustTimer) cancelAnimationFrame(adjustTimer);
+            adjustTimer = requestAnimationFrame(()=>{
+                spacer.style.width = menu.scrollWidth + 'px';
+                rebuildMarkers();
+                highlightActiveMarker();
+            });
+        }
+        window.addEventListener('load', adjust);
+        window.addEventListener('resize', adjust);
+        try {
+            const mo = new MutationObserver(adjust);
+            mo.observe(menu, { childList: true });
+        } catch(e){}
+        menu.addEventListener('load', adjust, true);
+
+        function rebuildMarkers(){
+            markerContainer.innerHTML = '';
+            const total = menu.scrollWidth;
+            if (!total) return;
+            const items = Array.from(menu.children);
+            items.forEach(li => {
+                const left = li.offsetLeft / total * spacer.offsetWidth; // 比例位置
+                const marker = document.createElement('div');
+                marker.className = 'top-marker';
+                marker.style.left = left + 'px';
+                marker.style.pointerEvents = 'auto';
+                marker.title = li.querySelector('img') ? (li.querySelector('img').alt || 'screenshot') : 'screenshot';
+                marker.addEventListener('click', () => {
+                    menu.scrollLeft = li.offsetLeft - 20; // 稍微提前一点
+                    topScroll.scrollLeft = menu.scrollLeft;
+                    highlightActiveMarker();
+                });
+                markerContainer.appendChild(marker);
+            });
+        }
+
+        function highlightActiveMarker(){
+            const items = Array.from(menu.children);
+            const center = menu.scrollLeft + menu.clientWidth / 2;
+            let activeIndex = -1;
+            for (let i=0;i<items.length;i++){ const li = items[i]; if (li.offsetLeft <= center && li.offsetLeft + li.offsetWidth >= center){ activeIndex = i; break; } }
+            const markers = markerContainer.querySelectorAll('.top-marker');
+            markers.forEach((m,i)=>{ if (i===activeIndex) m.classList.add('active'); else m.classList.remove('active'); });
+        }
+    </script>
+</body>
+</html>

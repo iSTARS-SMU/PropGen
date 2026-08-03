@@ -1,0 +1,1289 @@
+[
+  {
+    "description": "Search for podcasts or episodes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100053",
+    "end_time": "20260305100144",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow menu to access actions like adding podcasts or settings",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100203",
+    "end_time": "20260305100218",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go to Queue to manage upcoming episodes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100145",
+    "end_time": "20260305100202",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Inbox to view new/unplayed episodes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100426",
+    "end_time": "20260305100440",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Subscriptions to browse and manage subscribed podcasts",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100441",
+    "end_time": "20260305100456",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open More section for additional options and tools",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100457",
+    "end_time": "20260305100512",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen from search",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100652",
+    "end_time": "20260305100706",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a podcast from search results to view its details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100859",
+    "end_time": "20260305101010",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open Home screen from bottom navigation",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100529",
+    "end_time": "20260305100543",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort the queue order",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100219",
+    "end_time": "20260305100425",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear all episodes from the queue",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121333",
+    "end_time": "20260305121403",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Refresh the queue list",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305110333",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add/subscribe to a new podcast",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100711",
+    "end_time": "20260305100858",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open podcast statistics/insights screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113025",
+    "end_time": "20260305113042",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Episodes list screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100513",
+    "end_time": "20260305100528",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Downloads screen to manage downloaded episodes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121247",
+    "end_time": "20260305121304",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View playback history of listened episodes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305122241",
+    "end_time": "20260305122300",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Customize bottom navigation items",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305122954",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open app Settings",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123914",
+    "end_time": "20260305123930",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open starred/favorites episodes view (toggle favorites filter).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115714",
+    "end_time": "20260305115733",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure the Home screen layout and sections",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305100609",
+    "end_time": "20260305100641",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Refresh Home screen content",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305110814",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Save Home screen section configuration changes",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305105905",
+    "end_time": "20260305110221",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel Home screen configuration without saving",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110222",
+    "end_time": "20260305110238",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reset Home screen sections to default layout",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111204",
+    "end_time": "20260305111220",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Download an episode to the device",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101010",
+    "end_time": "20260305101031",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open podcast information/details screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101032",
+    "end_time": "20260305101050",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Filter the episode list for this podcast",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305102950",
+    "end_time": "20260305103052",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open podcast-specific settings/options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103053",
+    "end_time": "20260305103113",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play an episode directly from the episode list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103726",
+    "end_time": "20260305103748",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the podcast's website in a browser",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305101051",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Share this podcast with other apps",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305101856",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Resume playback of the \"Continue listening\" episode from Home",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101700",
+    "end_time": "20260305101719",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the \"Continue listening\" episode details from its card",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101720",
+    "end_time": "20260305101740",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start a random/surprise episode selection",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305102330",
+    "end_time": "20260305102427",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Download the suggested episode from the \"Get surprised\" card",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305103624",
+    "end_time": "20260305103725",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete this episode from device/library",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101740",
+    "end_time": "20260305101838",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the episode's external webpage/website",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305102428",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open sponsor/ad preferences link from show notes",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305103114",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open AdChoices information link from show notes",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305103749",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open NPR Privacy Policy link from show notes",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305104242",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Search within Settings by typing a query in the search field",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101532",
+    "end_time": "20260305101548",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Settings overflow menu for additional actions",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101549",
+    "end_time": "20260305101607",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back from Settings to the previous screen",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101625",
+    "end_time": "20260305101659",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the Settings search history suggestions",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101607",
+    "end_time": "20260305101624",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Pause or resume playback from the mini player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305105112",
+    "end_time": "20260305105132",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Now Playing screen from the mini player",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305101839",
+    "end_time": "20260305101856",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the podcast/episode in the in-app web view (globe icon).",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305111638",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Stream/play this episode without downloading",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121938",
+    "end_time": "20260305121958",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open episode actions menu (more options)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305105133",
+    "end_time": "20260305105213",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open downloads history or completed downloads list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305105657",
+    "end_time": "20260305105715",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Downloads options menu (download settings/actions)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110239",
+    "end_time": "20260305110313",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a sleep timer to stop playback after a period",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113853",
+    "end_time": "20260305113944",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change playback speed for the current episode",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114003",
+    "end_time": "20260305114142",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Seek to a different position using the playback progress bar",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305104658",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add or remove this episode from favorites (star)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114143",
+    "end_time": "20260305114205",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle including current playback position in the shared message",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123415",
+    "end_time": "20260305123435",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the social message text before sharing",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305123436",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Share the media address (direct stream URL) via other apps",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112106",
+    "end_time": "20260305112323",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Share the media file via other apps",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305112324",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Mark this episode as played",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112810",
+    "end_time": "20260305112848",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Remove this episode from the queue",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112849",
+    "end_time": "20260305112924",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow menu for additional episode actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110314",
+    "end_time": "20260305110332",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Collapse the Now Playing screen to return to the previous view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113006",
+    "end_time": "20260305113024",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the podcast page for the currently playing episode",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305102931",
+    "end_time": "20260305102949",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Apply the selected episode status filters",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121840",
+    "end_time": "20260305121858",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open podcast page overflow menu for additional actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305110659",
+    "end_time": "20260305110813",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Skip to the next episode/track",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305114206",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open episode information/details via the info icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120010",
+    "end_time": "20260305120032",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Skip back within the current episode (rewind button).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114652",
+    "end_time": "20260305114714",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Skip forward within the current episode (fast-forward button).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114715",
+    "end_time": "20260305114737",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel an in-progress episode download from the episode list",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305105225",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the episode show notes from the Now Playing screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120250",
+    "end_time": "20260305120310",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the favorites/starred episodes view from the Episodes screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115734",
+    "end_time": "20260305115909",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open an episode details page by tapping an episode title/row",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305105716",
+    "end_time": "20260305105904",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add the episode to the queue (flag/bookmark icon)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111221",
+    "end_time": "20260305111333",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear/delete the download log entries",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111459",
+    "end_time": "20260305111515",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a download log entry to view its details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111334",
+    "end_time": "20260305111440",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Copy the download details (including file URL) to the clipboard",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111441",
+    "end_time": "20260305111458",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the details dialog and return to the Downloads list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113136",
+    "end_time": "20260305113153",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete a downloaded episode from the Downloads list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111603",
+    "end_time": "20260305111621",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open an episode from the Inbox list to view details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111622",
+    "end_time": "20260305111638",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the \"Check your classics\" section to browse classic/older episodes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113618",
+    "end_time": "20260305113659",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the download log from the Download log sheet",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305111516",
+    "end_time": "20260305111548",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Mark the episode as unplayed",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115411",
+    "end_time": "20260305115452",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a subscribed podcast to view its podcast page/details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305112948",
+    "end_time": "20260305113005",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to yearly listening statistics view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113043",
+    "end_time": "20260305113059",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to download statistics view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113100",
+    "end_time": "20260305113116",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open statistics screen overflow menu actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113158",
+    "end_time": "20260305113248",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a podcast's detailed statistics from the list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113117",
+    "end_time": "20260305113135",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Tap the time-played bar chart to inspect monthly listening values",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305113249",
+    "end_time": "20260305113604",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Clear all items from playback history",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113803",
+    "end_time": "20260305113839",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play an episode from playback history",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113700",
+    "end_time": "20260305113802",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Download an episode from playback history",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305114738",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the suggested classic podcast from the Home card",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121218",
+    "end_time": "20260305121236",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the sleep timer dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305113945",
+    "end_time": "20260305114002",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go to previous episode/track",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120033",
+    "end_time": "20260305120205",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open audio effects/equalizer settings for playback",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305120311",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Delete this episode entry from playback history",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305122301",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Download an episode from the Episodes list using the download icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115216",
+    "end_time": "20260305115350",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Episodes screen overflow menu for additional list actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115351",
+    "end_time": "20260305115410",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the \"Get surprised\" section in an expanded/dedicated view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115534",
+    "end_time": "20260305115713",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle pausing playback when headphones/Bluetooth disconnects",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120739",
+    "end_time": "20260305120800",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle resuming playback when headphones reconnect",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120801",
+    "end_time": "20260305120822",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle resuming playback when Bluetooth reconnects",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120823",
+    "end_time": "20260305120841",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle pausing instead of ducking audio during interruptions",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120842",
+    "end_time": "20260305120900",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the fast-forward skip time duration",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120901",
+    "end_time": "20260305120944",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the rewind skip time duration",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120944",
+    "end_time": "20260305121021",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open \"Adjust media info to playback speed\" setting",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124321",
+    "end_time": "20260305124338",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel changing fast-forward skip time and close the dialog",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121031",
+    "end_time": "20260305121048",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set rewind skip time to 5 seconds",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121053",
+    "end_time": "20260305121204",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a downloaded episode from the list to view details or play",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121305",
+    "end_time": "20260305121324",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter multi-select mode to select multiple subscriptions for batch actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121501",
+    "end_time": "20260305121518",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle keeping the selected podcast updated (auto-refresh on/off)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121519",
+    "end_time": "20260305121614",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle including the selected podcast in downloads/auto-download scope",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121615",
+    "end_time": "20260305121708",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Exit multi-select mode and return to normal subscriptions view",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121709",
+    "end_time": "20260305121725",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open subscriptions filter options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121822",
+    "end_time": "20260305121839",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Minimize/collapse the full player to return to the previous screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305122013",
+    "end_time": "20260305122031",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Play an episode from the list using the play button",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305122744",
+    "end_time": "20260305122838",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Playback speed settings from the Settings list",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123940",
+    "end_time": "20260305124033",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable continuous playback to auto-play next queue item",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124055",
+    "end_time": "20260305124113",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open hardware button reassignment settings",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124114",
+    "end_time": "20260305124208",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure the forward button behavior",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124208",
+    "end_time": "20260305124241",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure the previous button behavior",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124242",
+    "end_time": "20260305124315",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set playback speed to 1.50x using preset button",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124034",
+    "end_time": "20260305124054",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set playback speed to 1.00x using preset button",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125827",
+    "end_time": "20260305125844",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set forward button action to restart the current episode",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125111",
+    "end_time": "20260305125307",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set forward button action to skip to the next episode",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124849",
+    "end_time": "20260305125110",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Dismiss the \"Previous button\" action selection dialog",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125406",
+    "end_time": "20260305125423",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Default page setting to choose the screen shown when starting AntennaPod",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124339",
+    "end_time": "20260305124421",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable Bottom navigation bar",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124422",
+    "end_time": "20260305124439",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle showing the \"Skip episode\" button in playback notification controls",
+    "source_activity": "PreferenceActivity",
+    "status": "FAILED",
+    "start_time": "20260305124451",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel notification button changes and close the dialog",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125432",
+    "end_time": "20260305125449",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Forward button setting from search results",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125641",
+    "end_time": "20260305125659",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Fast-forward skip time setting from search results",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125804",
+    "end_time": "20260305125822",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle keeping skipped episodes instead of removing them",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125308",
+    "end_time": "20260305125326",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Smart mark as played setting to configure played-threshold behavior",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125326",
+    "end_time": "20260305125400",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Disable Smart mark as played threshold",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125727",
+    "end_time": "20260305125803",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set Smart mark as played threshold to 15 seconds",
+    "source_activity": "PreferenceActivity",
+    "status": "FAILED",
+    "start_time": "20260305125459",
+    "end_time": "20260305125641",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel and close Smart mark as played dialog",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125704",
+    "end_time": "20260305125722",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set enqueue location to add new items at the back of the queue",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125858",
+    "end_time": "20260305125915",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set enqueue location to add new items to the front of the queue",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125920",
+    "end_time": "20260305125937",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open \"Download when not charging\" setting to configure auto-download battery behavior",
+    "source_activity": "PreferenceActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130010",
+    "end_time": "20260305130028",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  }
+]

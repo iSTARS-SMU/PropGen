@@ -1,0 +1,55 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+50,585,4728839,332583,5061422
+
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Tap “Get Started” and create a first deck so you can begin adding cards.,6,SUCCESS,30535,1974,32509,true,true
+Add a new flashcard to “My First Deck” and then start a short study session to review it.,13,FAILURE,101455,6626,108081,false,false
+Create a new Basic flashcard in “My First Deck” using the Card browser’s Add-note flow.,6,SUCCESS,51065,2465,53530,false,false
+Start a study session for “My First Deck” and answer at least one review card.,5,SUCCESS,30242,1738,31980,true,false
+Flag the current card during review and open its edit screen to update the wording.,6,SUCCESS,41229,2565,43794,true,true
+"Open the deck options from the Reviewer and change one study setting (e.g., daily new card limit), then return to the review screen.",13,FAILURE,92510,5337,97847,false,false
+"Change a basic app-wide study setting in Settings/Preferences (e.g., enable/disable “Show answer automatically” or adjust a reviewer/display option), then return to the deck list.",9,SUCCESS,57187,3662,60849,false,false
+Download a shared deck from the public shared-decks catalog and start the import/download flow.,13,FAILURE,78483,5057,83540,false,false
+Download a “data structures” shared deck from the catalog and start importing it into AnkiDroid.,13,FAILURE,77598,5613,83211,false,false
+Select a relevant “data structures” shared deck and start the download/import flow so it appears in your deck list.,13,FAILURE,76485,5755,82240,false,false
+Download and import one “data structures” shared deck into your local collection.,13,FAILURE,84448,5949,90397,false,false
+Collapse the search header and start downloading a relevant “data structures” shared deck so it can be added to your local deck list.,13,FAILURE,76278,5477,81755,false,false
+Select a relevant “data structures” shared deck from the results and start the download/import process.,13,FAILURE,87312,6151,93463,false,false
+"Start downloading one “data structures” shared deck by collapsing the search header, selecting a deck from the results, and beginning the import/download flow.",13,FAILURE,73310,5257,78567,false,false
+Download and import one shared “data structures” deck from the current search results.,13,FAILURE,72391,5290,77681,false,false
+Select a “data structures” shared deck from the results and start the download/import flow.,13,FAILURE,82601,5793,88394,false,false
+Select a “data structures” shared deck from the results and start the download/import into AnkiDroid.,13,FAILURE,86655,5922,92577,false,false
+Select a “data structures” shared deck from the results and start downloading/importing it into AnkiDroid.,13,FAILURE,85405,5846,91251,false,false
+Open a “data structures” shared deck from the results and start downloading/importing it into AnkiDroid.,13,FAILURE,84628,5892,90520,false,false
+Sign in to AnkiWeb from within AnkiDroid so you can enable sync for your decks.,11,SUCCESS,77564,4605,82169,true,true
+Trigger a manual sync to AnkiWeb and confirm it completes successfully.,14,FAILURE,93075,6196,99271,true,false
+"Dismiss the WebView warning and change “My First Deck” daily new/review limits in Deck Options, then start a short custom study session.",14,FAILURE,96444,5701,102145,true,false
+"Enable the whiteboard during review and draw a quick diagram to help remember the current card, then return to the card.",13,FAILURE,98470,7639,106109,true,false
+Draw a simple hash table diagram on the review card’s whiteboard and then hide/show the whiteboard to confirm it’s saved/usable.,13,FAILURE,112062,9032,121094,true,false
+"Save the current whiteboard stroke width setting and draw a simple hash table diagram on the review card’s whiteboard, then hide and re-show the whiteboard to confirm it persists.",13,FAILURE,112468,9158,121626,true,false
+"Edit the current flashcard’s note and add a small clarification to the answer, then save it.",4,SUCCESS,36238,2065,38303,true,true
+"Flag the current card with a color (e.g., Red) so you can review flagged cards later.",13,SUCCESS,108162,8426,116588,true,true
+"Filter for the card(s) you flagged (e.g., Red) in the Card Browser so you can review or manage them later.",6,SUCCESS,45995,3064,49059,false,false
+"Preview the current hash table card, then save it and return to reviewing to confirm the rendered card looks correct.",7,SUCCESS,51607,3236,54843,false,false
+Change the current deck’s daily New/Review limits from the deck options and save the updated study settings.,13,FAILURE,88251,5493,93744,false,false
+Create a new flashcard note from the deck using the “Add note” flow and attach an image or audio to test multimedia.,13,FAILURE,81819,5924,87743,false,false
+"Create and attach a simple drawing (e.g., a hash table diagram) to the current note using the Drawing option.",13,FAILURE,71805,4827,76632,true,false
+Draw a small hash-table-style diagram in the whiteboard and save it to attach as an image to the note.,9,SUCCESS,61128,4357,65485,true,false
+Create a custom study session for “My First Deck” to review only flagged cards.,13,FAILURE,84342,5843,90185,true,false
+Configure and start a filtered/custom study session that studies a limited number of cards in random order without rescheduling.,13,FAILURE,100607,7221,107828,true,false
+"Open the current card’s note, then create or modify a note type by adding a new field and confirming the card template updates.",13,FAILURE,93293,6445,99738,true,false
+"Add a meaningful tag (e.g., `data-structures::hash-tables`) to this note and save it so you can later filter/study by that tag.",13,FAILURE,127626,9136,136762,false,false
+"Filter and apply the correct tag(s) to this note, ensuring the unintended English-example tags are removed and your intended `data-structures::hash-tables` tag is selected.",13,FAILURE,119471,9398,128869,true,false
+"Clean up the note’s tags so only `data-structures::hash-tables` is selected, then confirm the change back in the Note Editor.",13,FAILURE,122811,9625,132436,true,false
+"Clean up the current note’s tags so only `data-structures::hash-tables` is selected, then confirm the change is applied back in the Note Editor.",7,SUCCESS,64073,4807,68880,true,false
+"Create a new “Cloze” note in “My First Deck” using the note-type dropdown, format the text (bold + MathJax), and save it.",13,FAILURE,154211,10252,164463,true,false
+"Open the note type manager and add a new custom field to the current note type, then return to the editor.",13,FAILURE,125261,9459,134720,true,false
+"Add a new custom field (e.g., “Source” or “Hint”) to the current note type via Manage note types, then confirm the new field appears in the Note Editor.",13,FAILURE,116544,8268,124812,true,false
+Change the note’s target deck to a different deck (or create/select one if prompted) and save the note there.,6,SUCCESS,61394,4399,65793,true,true
+Set up a Deck Picker home-screen widget and configure it to open the “考研::英语::例句” deck.,20,FAILURE,114966,7885,122851,false,false
+Dismiss the outdated WebView warning and open the app’s Info screen from within AnkiDroid to check version/build details.,15,FAILURE,99404,6394,105798,true,false
+"Open the note type manager and add a new custom field to the Cloze note type, then verify it appears when adding a new note.",13,SUCCESS,97322,5926,103248,true,true
+"Fill the new “JadeCustomField,” switch the target deck from “Default” to a specific deck, and open “Cards: Cloze” to confirm how many cards will be generated before saving the note.",13,FAILURE,162893,10870,173763,true,false
+"Fix the current Cloze note so it generates a valid cloze card, add a brief explanation in Extra, preview it, and save it successfully.",13,FAILURE,177444,12515,189959,true,true
+"Save this Cloze note, make the Text field sticky for faster multi-card entry, then preview the card and start reviewing it from the deck.",11,SUCCESS,149164,10835,159999,true,true

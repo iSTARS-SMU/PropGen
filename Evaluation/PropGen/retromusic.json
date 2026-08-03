@@ -1,0 +1,1019 @@
+[
+  {
+    "description": "Open the project's Github page from the contributor announcement",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307141806",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open app settings",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151017",
+    "end_time": "20260307151144",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Search music library",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142542",
+    "end_time": "20260307142807",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Cast music to a device",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307150221",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "View listening history",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150736",
+    "end_time": "20260307150753",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Browse recently added songs",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151227",
+    "end_time": "20260307151244",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open most played songs list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155218",
+    "end_time": "20260307155237",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Start shuffle playback",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155948",
+    "end_time": "20260307160006",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open recent artists list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160007",
+    "end_time": "20260307160129",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open an artist page from recent artists",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142315",
+    "end_time": "20260307142541",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open recent albums list",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307161141",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Navigate back from Settings",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151659",
+    "end_time": "20260307151807",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open a contributor profile/details from the members list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143455",
+    "end_time": "20260307143513",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Play all songs by this artist",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142808",
+    "end_time": "20260307142834",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open artist options menu (more actions)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307142835",
+    "end_time": "20260307142900",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Reset the custom artist image back to default.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307142901",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Set or change the artist image.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307145733",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Add this artist's songs to a playlist.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307144441",
+    "end_time": "20260307144548",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Add this artist's songs to the current playing queue.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150914",
+    "end_time": "20260307151017",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Queue this artist's songs to play next.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152852",
+    "end_time": "20260307153042",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143428",
+    "end_time": "20260307143454",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the artist result from search results",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143532",
+    "end_time": "20260307143627",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the Now Playing screen from the mini-player bar",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143514",
+    "end_time": "20260307143531",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Pause or resume playback using the mini-player control",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143628",
+    "end_time": "20260307143645",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the currently listed song from this artist",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143646",
+    "end_time": "20260307143702",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Seek to a different position in the current song",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145330",
+    "end_time": "20260307145347",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Skip to the next track",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145348",
+    "end_time": "20260307145405",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Go to the previous track",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307151303",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Toggle shuffle playback mode",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307153907",
+    "end_time": "20260307153924",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle repeat mode for playback",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153924",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Mark or unmark the current song as favorite",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154328",
+    "end_time": "20260307154344",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the playing queue / up next list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154345",
+    "end_time": "20260307154401",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open lyrics view for the current song",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163033",
+    "end_time": "20260307163051",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Set a sleep timer to stop playback later",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163052",
+    "end_time": "20260307163151",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open more options menu for the current track",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145708",
+    "end_time": "20260307145732",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the artist page from the Now Playing screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150754",
+    "end_time": "20260307150848",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the current track's details/info page",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145256",
+    "end_time": "20260307145313",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Clear the current playing queue",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307162109",
+    "end_time": "20260307162248",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Set the current song as the phone ringtone",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154422",
+    "end_time": "20260307154606",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Share the current song using Android share sheet",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155920",
+    "end_time": "20260307155934",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Save the current playing queue as a playlist",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170315",
+    "end_time": "20260307170405",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the album page for the current song",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165545",
+    "end_time": "20260307165601",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the current song details by tapping the track title",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151244",
+    "end_time": "20260307151302",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle repeat playback mode",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307143707",
+    "end_time": "20260307143851",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Cycle repeat mode (off, repeat all, repeat one) from Now Playing controls",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307163152",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the overflow menu for additional Now Playing actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150849",
+    "end_time": "20260307150913",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle night/dim mode using the moon button",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307163537",
+    "end_time": null,
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Add or edit lyrics for the current song",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307143852",
+    "end_time": "20260307144043",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Search within lyrics (or find lyrics content)",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307144044",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Cancel editing lyrics and close the dialog without saving",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160505",
+    "end_time": "20260307160521",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open user profile/account screen from the avatar icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165353",
+    "end_time": "20260307165410",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open an artist from the Top artists section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145617",
+    "end_time": "20260307145707",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Switch to another library tab using bottom navigation",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161621",
+    "end_time": "20260307161639",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle repeat mode using the repeat button",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307165929",
+    "end_time": "20260307170314",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151910",
+    "end_time": "20260307151939",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Close the song details dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145314",
+    "end_time": "20260307145329",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Jump playback by tapping the total duration time label",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307144554",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Jump playback by tapping the current time label",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307144951",
+    "end_time": "20260307145008",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle repeat mode using the repeat icon button",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307145014",
+    "end_time": "20260307145030",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open expanded album art view by tapping the artwork area",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307145043",
+    "end_time": "20260307145226",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Switch to synced lyrics mode for the current song",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153452",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name chip",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151940",
+    "end_time": "20260307152158",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152159",
+    "end_time": "20260307152327",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Jump playback by tapping the song duration time label",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307145432",
+    "end_time": "20260307145616",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name button",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152328",
+    "end_time": "20260307152352",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Dismiss the Cast to dialog and stop searching for devices",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307150657",
+    "end_time": "20260307150735",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open History screen options menu (overflow actions)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152353",
+    "end_time": "20260307152852",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Reorder songs in the playing queue by dragging the handle.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153043",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open options menu for a queued track (three-dot overflow).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154402",
+    "end_time": "20260307154421",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Delete the selected song file from the device storage",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165618",
+    "end_time": "20260307165742",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Play a selected recently added song by tapping its title row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154606",
+    "end_time": "20260307154625",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name chip",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154626",
+    "end_time": "20260307154719",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the current song page by tapping the song title",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155238",
+    "end_time": "20260307155255",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name on Now Playing",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151812",
+    "end_time": "20260307151909",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Sort the songs list on this page",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155335",
+    "end_time": "20260307155428",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Edit this song/album metadata (open tag editor)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155446",
+    "end_time": "20260307155512",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open more options menu for this page (additional actions)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154721",
+    "end_time": "20260307154746",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Play the selected track from the list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154752",
+    "end_time": "20260307154817",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "View or change the album artwork by tapping the cover image",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154818",
+    "end_time": "20260307155155",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the current track page by tapping the song title",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155636",
+    "end_time": "20260307155654",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the options menu for a song in the Most played list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155902",
+    "end_time": "20260307155919",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Set sort order to Ascending for the list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155429",
+    "end_time": "20260307155445",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Set sort order to Descending for the list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161601",
+    "end_time": "20260307161620",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Edit the album tag for the current track",
+    "source_activity": "AlbumTagEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155513",
+    "end_time": "20260307155635",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Jump playback by tapping the total duration time value",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307155716",
+    "end_time": "20260307155902",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the genre page by tapping the genre label",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160139",
+    "end_time": "20260307160157",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the genre page by tapping the genre chip (hip-hop).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160207",
+    "end_time": "20260307160223",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Edit the lyrics search/query text in the input field",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160257",
+    "end_time": "20260307160504",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the genre page by tapping the genre label \"hip-hop\"",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307161640",
+    "end_time": "20260307162036",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name \"<unknown>\"",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160530",
+    "end_time": "20260307160636",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Jump playback by tapping the current time readout",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160658",
+    "end_time": "20260307160717",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Pick a new album art image from device storage",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307160722",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open Now Playing options menu from the three-dot button",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162037",
+    "end_time": "20260307162109",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open Artists page overflow menu for additional actions (e.g., sort/view options).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162424",
+    "end_time": "20260307162501",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle expanded/fullscreen view of the Artists list using the floating button.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307162539",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the Songs page overflow menu for list actions (sort/view options).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164549",
+    "end_time": "20260307164826",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open a song's context menu (more actions for that song).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165528",
+    "end_time": "20260307165544",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle expanded/fullscreen view of the Songs list using the floating button.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307164958",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Start playback from the mini-player play button.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165411",
+    "end_time": "20260307165501",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open an album details page from the Albums grid",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165743",
+    "end_time": "20260307165911",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open Albums page overflow menu for additional actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165601",
+    "end_time": "20260307165617",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the currently playing track from the mini-player track bar",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165912",
+    "end_time": "20260307165928",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Change the Albums grid size (number of columns).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162249",
+    "end_time": "20260307162423",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Change the Albums grid style (layout appearance).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162502",
+    "end_time": "20260307162538",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Change the Albums sorting order/criteria.",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164827",
+    "end_time": "20260307164958",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open selection actions overflow menu for more options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170829",
+    "end_time": "20260307170846",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Toggle finishing the current song before stopping playback when sleep timer ends",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163913",
+    "end_time": "20260307163928",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Adjust the sleep timer duration (e.g., 30 minutes) before starting",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163929",
+    "end_time": "20260307163944",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Skip to the next track using the next button",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164005",
+    "end_time": "20260307164022",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Drag the seek bar thumb to scrub to a new playback position",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307164027",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  },
+  {
+    "description": "Open the artist page by tapping the artist name \"She\"",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164453",
+    "end_time": "20260307164548",
+    "feature identify correctness": "Fail",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Open the current song list/queue view from Now Playing using the list icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165513",
+    "end_time": "20260307165528",
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Success"
+  },
+  {
+    "description": "Tap the \"No lyrics found\" header to attempt loading lyrics",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307170447",
+    "end_time": null,
+    "feature identify correctness": "Success",
+    "feature execute correctness": "Fail"
+  }
+]

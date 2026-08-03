@@ -1,0 +1,1136 @@
+[
+  {
+    "description": "Dismiss the \"What's New\" dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307151946",
+    "end_time": "20260307152004",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open search view to find notes or tasks",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152005",
+    "end_time": "20260307152038",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View agenda overview",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307153019",
+    "end_time": "20260307153036",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow menu options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152039",
+    "end_time": "20260307152054",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open help/about information for Searches",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307152128",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open navigation drawer",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307153004",
+    "end_time": "20260307153018",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Export notes/notebooks data from the app",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307152055",
+    "end_time": "20260307152127",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new notebook",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153037",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View notebook details/metadata by tapping its info area",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307153450",
+    "end_time": "20260307153720",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Import an Org file into the app",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307152525",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open App settings section",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175507",
+    "end_time": "20260307175522",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Widget settings section",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180138",
+    "end_time": "20260307180152",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Sync settings section",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180814",
+    "end_time": "20260307180829",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Import the latest \"Getting Started with Orgzly\" notebook",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307173938",
+    "end_time": "20260307173952",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the local database (reset app data)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307173953",
+    "end_time": "20260307174026",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Developer options settings",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307174026",
+    "end_time": "20260307174041",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the GitHub page from the release notes link",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307175538",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open an agenda entry to view its note/task details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160907",
+    "end_time": "20260307160930",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create a new note in the current notebook",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161157",
+    "end_time": "20260307161314",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a note to view its details",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307160931",
+    "end_time": "20260307161012",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a note (start multi-select) by long-pressing it",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161111",
+    "end_time": "20260307161157",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Fold or unfold a note subtree using the expand/collapse icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161315",
+    "end_time": "20260307161335",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Jump to previous/next heading using the up/down arrows",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307161336",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the \"Notes\" tutorial section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161747",
+    "end_time": "20260307161804",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the \"Search\" tutorial section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161932",
+    "end_time": "20260307161946",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the \"Syncing\" tutorial section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162037",
+    "end_time": "20260307162052",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a new item under the \"Notes\" section",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307162354",
+    "end_time": "20260307162719",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Edit the Getting Started notebook preface/introduction text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171322",
+    "end_time": "20260307171413",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Download/refresh notebook content from remote repository",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307153721",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel the force load overwrite operation and keep the local notebook unchanged",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307170823",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View details of the force-loading failure by tapping the error message",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307160510",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Delete the selected notebook/repository entry",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163328",
+    "end_time": "20260307163358",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open repository configuration to set up sync repositories",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171437",
+    "end_time": "20260307171558",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable syncing created-at time using a property",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171612",
+    "end_time": "20260307171644",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the Org file format used for exported notebooks",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171645",
+    "end_time": "20260307171854",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a new Dropbox repository for syncing notebooks",
+    "source_activity": "ReposActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154216",
+    "end_time": "20260307154458",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a new WebDAV repository for syncing notebooks",
+    "source_activity": "ReposActivity",
+    "status": "FAILED",
+    "start_time": "20260307154756",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add a new local directory repository for syncing notebooks",
+    "source_activity": "ReposActivity",
+    "status": "FAILED",
+    "start_time": "20260307160027",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Link the app to a Dropbox account for syncing",
+    "source_activity": "DropboxRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154517",
+    "end_time": "20260307154534",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen",
+    "source_activity": "DropboxRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154703",
+    "end_time": "20260307154721",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open an existing repository entry to view or edit its settings",
+    "source_activity": "ReposActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154459",
+    "end_time": "20260307154516",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start adding a new sync repository",
+    "source_activity": "ReposActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307154535",
+    "end_time": "20260307154645",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the WebDAV server URL",
+    "source_activity": "WebdavRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155708",
+    "end_time": "20260307155742",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the WebDAV username",
+    "source_activity": "WebdavRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155743",
+    "end_time": "20260307155815",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the WebDAV password",
+    "source_activity": "WebdavRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155816",
+    "end_time": "20260307155851",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add trusted certificates for the WebDAV connection",
+    "source_activity": "WebdavRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155145",
+    "end_time": "20260307155301",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Test the WebDAV connection with current settings",
+    "source_activity": "WebdavRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307155302",
+    "end_time": "20260307155318",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save the WebDAV repository configuration",
+    "source_activity": "WebdavRepoActivity",
+    "status": "FAILED",
+    "start_time": "20260307155319",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Save the note changes and exit editor",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161013",
+    "end_time": "20260307161110",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the note content/body text",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161805",
+    "end_time": "20260307161839",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set or edit tags for the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161947",
+    "end_time": "20260307162037",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open tag options menu (more actions for tags)",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162053",
+    "end_time": "20260307162108",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the note TODO state",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307161840",
+    "end_time": "20260307161931",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set or change the note priority",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162109",
+    "end_time": "20260307162156",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set scheduled time/date for the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162157",
+    "end_time": "20260307162230",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set deadline time/date for the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162231",
+    "end_time": "20260307162302",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a custom property by entering property name",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307162303",
+    "end_time": "20260307162353",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a custom property value",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163132",
+    "end_time": "20260307163254",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle bookmark/pin status for the current note",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307163758",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open tag actions/options menu from the tags row",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164309",
+    "end_time": "20260307164325",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set or edit a reminder/alarm time for the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164231",
+    "end_time": "20260307164309",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open note actions menu from the left-side action icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164326",
+    "end_time": "20260307164507",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open note actions menu from the left-side action icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164538",
+    "end_time": "20260307164554",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open note actions menu from the left-side action icon",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307164555",
+    "end_time": "20260307164848",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open note actions menu from the left-side action icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164849",
+    "end_time": "20260307165226",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create another new note below using the snackbar action",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307162719",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open editor overflow menu for additional note actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307163255",
+    "end_time": "20260307163327",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle bookmark status for this note from the editor",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170218",
+    "end_time": "20260307170427",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Save/bookmark this search configuration",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307170428",
+    "end_time": "20260307170605",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open tag filter options/actions menu",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170606",
+    "end_time": "20260307170623",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open tag editor using the tag icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170125",
+    "end_time": "20260307170217",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle note favorite/star status from the star icon",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307170623",
+    "end_time": "20260307170804",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open scheduled date/time picker from calendar icon",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307170805",
+    "end_time": "20260307170822",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a new item under the \"Search\" tutorial section",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307163359",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add a new item under the \"Syncing\" tutorial section",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307165259",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create a new note using the floating action button",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260307165710",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the properties editor overflow menu for additional actions",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171302",
+    "end_time": "20260307171321",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Clock tool for the current note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164137",
+    "end_time": "20260307164154",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open metadata view/editor for the current note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164507",
+    "end_time": "20260307164522",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete the current note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307165227",
+    "end_time": "20260307165258",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set metadata visibility to show all fields",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164523",
+    "end_time": "20260307164538",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow menu for additional actions on this screen",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171414",
+    "end_time": "20260307171432",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start time tracking for the note (Clock in).",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307164155",
+    "end_time": "20260307164230",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change notebooks sort order (e.g., by name or other criteria)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307172340",
+    "end_time": "20260307172416",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change which notebook details are displayed in the notebooks list",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307172417",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Set the default notebook used for new notes",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307173051",
+    "end_time": "20260307173122",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle forcing UTF-8 encoding for Org files",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307171855",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle folding all notes when a notebook is loaded",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307172245",
+    "end_time": "20260307172339",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change list density (e.g., Comfortable vs other options)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307173123",
+    "end_time": "20260307173155",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure displaying planning times in note lists",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307173156",
+    "end_time": "20260307173535",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the selected notebook from the notebooks list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307171244",
+    "end_time": "20260307171301",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Auto-sync settings/details (learn why it’s unsupported for Dropbox)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180830",
+    "end_time": "20260307180903",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle separating header and content with an empty line in Org files",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307173553",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Enable or disable adjusting tag indentation based on indent mode",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307174042",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm and apply the tags column setting",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307172825",
+    "end_time": "20260307173050",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel and close the tags column dialog without saving",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307173536",
+    "end_time": "20260307173552",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set notebooks sort order to modification time",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175021",
+    "end_time": "20260307175036",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Notebooks settings subsection",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307174417",
+    "end_time": "20260307174633",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and apply notebook details display options",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175935",
+    "end_time": "20260307180137",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open settings to configure how planning times are displayed in note lists",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307174634",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the \"What's new\" release notes for the current app version",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175522",
+    "end_time": "20260307175537",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable Git repository type developer option",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175037",
+    "end_time": "20260307175134",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable logging of major events",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175135",
+    "end_time": "20260307175149",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change app theme (e.g., System default, Light, Dark).",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180314",
+    "end_time": "20260307180343",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the Light color scheme setting.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180344",
+    "end_time": "20260307180413",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the Dark color scheme setting.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180414",
+    "end_time": "20260307180444",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle swapping note click and long-click actions.",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260307175150",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Change the app font size setting.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180153",
+    "end_time": "20260307180228",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle using a monospaced font for note content.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180228",
+    "end_time": "20260307180313",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Copy the selected app version text to clipboard",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307175916",
+    "end_time": "20260307175930",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change widget color scheme (e.g., Light/Dark).",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180445",
+    "end_time": "20260307180513",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Adjust widget background opacity level.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180626",
+    "end_time": "20260307180711",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change widget font size setting.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180514",
+    "end_time": "20260307180542",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle showing checkmarks in the widget.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180543",
+    "end_time": "20260307180625",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle showing notebook name in the widget.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180712",
+    "end_time": "20260307180727",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set widget update frequency interval.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180728",
+    "end_time": "20260307180758",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Return to the previous settings screen using the back arrow",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180759",
+    "end_time": "20260307180814",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable Auto-sync using the master switch",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180904",
+    "end_time": "20260307180926",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable auto-sync after creating a new note",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307180926",
+    "end_time": "20260307181004",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable auto-sync after updating or deleting a note",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307181005",
+    "end_time": "20260307181021",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable auto-sync when the app starts or resumes",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307181022",
+    "end_time": "20260307181040",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start adding a new Git repository for syncing notebooks",
+    "source_activity": "ReposActivity",
+    "status": "FAILED",
+    "start_time": "20260307181057",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Enter or edit the Git branch name to sync (e.g., master).",
+    "source_activity": "GitRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307181731",
+    "end_time": "20260307181749",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the Git commit email identity.",
+    "source_activity": "GitRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307181750",
+    "end_time": "20260307181849",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the Git commit author name.",
+    "source_activity": "GitRepoActivity",
+    "status": "COMPLETED",
+    "start_time": "20260307181850",
+    "end_time": "20260307181923",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the current directory path manually.",
+    "source_activity": "BrowserActivity",
+    "status": "FAILED",
+    "start_time": "20260307181428",
+    "end_time": "20260307181731",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  }
+]

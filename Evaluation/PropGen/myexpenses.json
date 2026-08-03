@@ -1,0 +1,965 @@
+[
+  {
+    "description": "Add a new expense/transaction to this account",
+    "source_activity": "MyExpenses",
+    "status": "FAILED",
+    "start_time": "20260303114645",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the navigation drawer to switch sections/accounts",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303115122",
+    "end_time": "20260303115138",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open saved/bookmark-related view or toggle bookmark",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303115139",
+    "end_time": "20260303115326",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open messages/notifications or inbox",
+    "source_activity": "MyExpenses",
+    "status": "FAILED",
+    "start_time": "20260303141240",
+    "end_time": "20260303141532",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open more options menu for additional actions",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303121225",
+    "end_time": "20260303121241",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel and discard the new transaction entry",
+    "source_activity": "ExpenseEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303115808",
+    "end_time": "20260303115844",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a different account for this transaction",
+    "source_activity": "ExpenseEdit",
+    "status": "FAILED",
+    "start_time": "20260303120249",
+    "end_time": "20260303120444",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle transaction type between expense and income",
+    "source_activity": "ExpenseEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303120445",
+    "end_time": "20260303120503",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open calculator to enter or compute the amount",
+    "source_activity": "ExpenseEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303120504",
+    "end_time": "20260303120524",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a category for the transaction",
+    "source_activity": "ExpenseEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303120544",
+    "end_time": "20260303120640",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add tags to the transaction",
+    "source_activity": "ExpenseEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303120641",
+    "end_time": "20260303120733",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save the transaction",
+    "source_activity": "ExpenseEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303120733",
+    "end_time": "20260303120926",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select an account to open its transaction list",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303133903",
+    "end_time": "20260303133918",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Expand or collapse the selected account row/details",
+    "source_activity": "MyExpenses",
+    "status": "FAILED",
+    "start_time": "20260303134825",
+    "end_time": "20260303135013",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Expand or collapse the Accounts section",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303141111",
+    "end_time": "20260303141127",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Search accounts in the manage accounts panel",
+    "source_activity": "MyExpenses",
+    "status": "FAILED",
+    "start_time": "20260303133919",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open manage-accounts overflow menu actions",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303134322",
+    "end_time": "20260303134636",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new template or plan",
+    "source_activity": "ManageTemplates",
+    "status": "FAILED",
+    "start_time": "20260303115327",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Change sorting order of templates list",
+    "source_activity": "ManageTemplates",
+    "status": "COMPLETED",
+    "start_time": "20260303115845",
+    "end_time": "20260303115916",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open help for templates and plans",
+    "source_activity": "ManageTemplates",
+    "status": "COMPLETED",
+    "start_time": "20260303115917",
+    "end_time": "20260303115932",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort templates by title",
+    "source_activity": "ManageTemplates",
+    "status": "FAILED",
+    "start_time": "20260303115955",
+    "end_time": "20260303120248",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Dismiss the Templates and plans help dialog",
+    "source_activity": "Help",
+    "status": "COMPLETED",
+    "start_time": "20260303115933",
+    "end_time": "20260303115950",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm calculator entry and apply the computed amount",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303120524",
+    "end_time": "20260303120543",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel calculator input and return without applying changes",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303124614",
+    "end_time": "20260303124632",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the calculator input to start over",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303131954",
+    "end_time": "20260303132012",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete the last entered digit/operator (backspace)",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303132013",
+    "end_time": "20260303132242",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Perform addition operation in the calculator input",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303132243",
+    "end_time": "20260303132359",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Perform subtraction operation in the calculator input",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303132400",
+    "end_time": "20260303132458",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Perform multiplication operation in the calculator input",
+    "source_activity": "CalculatorInput",
+    "status": "COMPLETED",
+    "start_time": "20260303132459",
+    "end_time": "20260303132816",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open an existing template to view or edit its details",
+    "source_activity": "ManageTemplates",
+    "status": "COMPLETED",
+    "start_time": "20260303120927",
+    "end_time": "20260303121000",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle bookmark/favorite status for the selected template",
+    "source_activity": "ManageTemplates",
+    "status": "COMPLETED",
+    "start_time": "20260303121001",
+    "end_time": "20260303121047",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Search or filter transactions using the search field",
+    "source_activity": "ManageTemplates",
+    "status": "COMPLETED",
+    "start_time": "20260303121048",
+    "end_time": "20260303121225",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Total summary details/breakdown view",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303144350",
+    "end_time": "20260303144426",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a Category criterion to the complex search query",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135031",
+    "end_time": "20260303135124",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add an Amount criterion to the complex search query",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135124",
+    "end_time": "20260303135241",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a Notes text criterion to the complex search query",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135242",
+    "end_time": "20260303135332",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a Payee/Payer criterion to the complex search query",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135333",
+    "end_time": "20260303135420",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a Date criterion to the complex search query",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135421",
+    "end_time": "20260303135456",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add a Tags criterion to the complex search query",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135457",
+    "end_time": "20260303135515",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open complex search options (e.g., sort/group settings)",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303140540",
+    "end_time": "20260303140616",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the active tag filter chip to view or adjust its filter settings",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303134808",
+    "end_time": "20260303134824",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Budgeting section for the current account",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303121242",
+    "end_time": "20260303121315",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Distribution view to split/allocate transactions",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303140617",
+    "end_time": "20260303140654",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Parties/Debts management",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303141532",
+    "end_time": "20260303141925",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Create a new budget",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303121316",
+    "end_time": "20260303121524",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open budgeting list/options menu",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303121524",
+    "end_time": "20260303121540",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Budgeting help information",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303121914",
+    "end_time": "20260303121931",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select which account(s) this budget applies to",
+    "source_activity": "BudgetEdit",
+    "status": "FAILED",
+    "start_time": "20260303123113",
+    "end_time": "20260303123301",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Set a category filter for the budget scope",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303123302",
+    "end_time": "20260303123352",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a party filter for the budget scope",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303123353",
+    "end_time": "20260303123441",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a payment method filter for the budget scope",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303123442",
+    "end_time": "20260303123532",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a transaction status filter for the budget scope",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303123533",
+    "end_time": "20260303123622",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a tag filter for the budget scope",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303123622",
+    "end_time": "20260303123851",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the budget title",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303123852",
+    "end_time": "20260303123945",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter or edit the budget description",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303131724",
+    "end_time": "20260303131819",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save/confirm creating the new budget",
+    "source_activity": "BudgetEdit",
+    "status": "COMPLETED",
+    "start_time": "20260303133244",
+    "end_time": "20260303133303",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle the budgeting display mode (e.g., list vs another view)",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303122356",
+    "end_time": "20260303122427",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the selected budget category line (Groceries) to view details",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303122428",
+    "end_time": "20260303122445",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch budgeting breakdown to \"Account\" view using the radio option",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303121541",
+    "end_time": "20260303121835",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch budgeting breakdown to \"Type\" view using the radio option",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303121835",
+    "end_time": "20260303121909",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the budgeting period (e.g., Monthly) to another interval",
+    "source_activity": "ManageBudgets",
+    "status": "FAILED",
+    "start_time": "20260303131258",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the FAQ page about synchronization of budgets",
+    "source_activity": "Help",
+    "status": "FAILED",
+    "start_time": "20260303121931",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Close the budgeting help dialog",
+    "source_activity": "Help",
+    "status": "COMPLETED",
+    "start_time": "20260303122338",
+    "end_time": "20260303122355",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the allocated amount for a budget line by tapping its amount cell",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303122446",
+    "end_time": "20260303122521",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort budget lines by the Allocated column",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303122522",
+    "end_time": "20260303122539",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to the previous budgeting period",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303122540",
+    "end_time": "20260303122557",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate to the next budgeting period",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303122557",
+    "end_time": "20260303122615",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Apply budget change only for March 2026 by toggling the checkbox",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303124632",
+    "end_time": "20260303124937",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and close the budget line edit dialog",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303122625",
+    "end_time": "20260303122642",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the allocated amount for the \"Gifts\" budget line in the dialog",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303124208",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the Budget Book selector to choose a different budget book",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303122653",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Sort budget lines by the Label column",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303123946",
+    "end_time": "20260303124005",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort budget lines by the Spent column",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303124005",
+    "end_time": "20260303124207",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the current budget/category context by tapping the title",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303124942",
+    "end_time": "20260303125143",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort budget lines by the Spent column",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303125143",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open spending details by tapping a value in the Spent column",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303125604",
+    "end_time": "20260303125623",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the budget period selector by tapping the month/year header",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303125628",
+    "end_time": "20260303125824",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Expand or collapse a category group row using its dropdown arrow",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303125825",
+    "end_time": "20260303125846",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Expand or collapse a budget category group (e.g., Financial expenses) using its arrow control",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303125847",
+    "end_time": "20260303125906",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open details for the Allocated total/summary value (e.g., = $2.34).",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303125933",
+    "end_time": "20260303130359",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the budget period selector by tapping the month/year header (April 2026).",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303130400",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open details/explanation for the \"Not enough data\" message panel.",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303130839",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open calculator from the budget edit dialog to compute/enter a value",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303131855",
+    "end_time": "20260303131949",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the budget line label/name in the dialog title field",
+    "source_activity": "BudgetActivity",
+    "status": "FAILED",
+    "start_time": "20260303132817",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle sort direction (ascending/descending) for the budget table",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303133304",
+    "end_time": "20260303133327",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the budget group/category name in the dialog title field",
+    "source_activity": "BudgetActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303133336",
+    "end_time": "20260303133703",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the budgets list/navigation panel using the list icon",
+    "source_activity": "ManageBudgets",
+    "status": "COMPLETED",
+    "start_time": "20260303133717",
+    "end_time": "20260303133902",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new account from Manage accounts",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303141145",
+    "end_time": "20260303141240",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Manage accounts view selector dropdown (switch context/section).",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303141127",
+    "end_time": "20260303141144",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set or enter a new balance for the budget book",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303134637",
+    "end_time": "20260303134807",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Confirm and apply the new balance value",
+    "source_activity": "MyExpenses",
+    "status": "COMPLETED",
+    "start_time": "20260303135920",
+    "end_time": "20260303140132",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Remove the active amount filter chip (Expense = $10.00) from the search",
+    "source_activity": "MyExpenses",
+    "status": "FAILED",
+    "start_time": "20260303135516",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Remove the active date filter chip (after 3/3/26) from the search",
+    "source_activity": "MyExpenses",
+    "status": "FAILED",
+    "start_time": "20260303140133",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Switch between chart view and list/table view for the budget breakdown",
+    "source_activity": "DistributionActivity",
+    "status": "FAILED",
+    "start_time": "20260303140655",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add a new account type",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303141926",
+    "end_time": "20260303142115",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit/view an existing account type (e.g., Bank)",
+    "source_activity": "ManageAccountTypes",
+    "status": "FAILED",
+    "start_time": "20260303142116",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Reorder/sort account types within Assets section",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303142940",
+    "end_time": "20260303143050",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reorder/sort account types within Liabilities section",
+    "source_activity": "ManageAccountTypes",
+    "status": "FAILED",
+    "start_time": "20260303143051",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Set the new account type as an Asset type",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303143505",
+    "end_time": "20260303143616",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save and create the new account type",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303143617",
+    "end_time": "20260303143748",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open an existing account type entry to view details",
+    "source_activity": "ManageAccountTypes",
+    "status": "FAILED",
+    "start_time": "20260303143748",
+    "end_time": "20260303143948",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open Assets section sort/reorder options",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303144008",
+    "end_time": "20260303144025",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Liabilities section sort/reorder options",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303144034",
+    "end_time": "20260303144053",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch account type classification to Assets",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303144058",
+    "end_time": "20260303144341",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reorder account types by dragging a row using its handle",
+    "source_activity": "ManageAccountTypes",
+    "status": "FAILED",
+    "start_time": "20260303142516",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm and apply the new account type sort order",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303142921",
+    "end_time": "20260303142940",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel sort order changes and close the dialog",
+    "source_activity": "ManageAccountTypes",
+    "status": "COMPLETED",
+    "start_time": "20260303143949",
+    "end_time": "20260303144007",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  }
+]

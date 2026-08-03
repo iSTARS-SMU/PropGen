@@ -1,0 +1,1055 @@
+[
+  {
+    "description": "Create a new note/file in the current folder",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305114859",
+    "end_time": "20260305114959",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Switch to Files section to browse documents",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121635",
+    "end_time": "20260305121652",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the To-Do editor/section",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121653",
+    "end_time": "20260305121710",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open QuickNote editor for a fast note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121711",
+    "end_time": "20260305121728",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open More section for additional options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121729",
+    "end_time": "20260305121746",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Browse/select a different folder location",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123200",
+    "end_time": "20260305123255",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle file list/view mode",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305123256",
+    "end_time": "20260305123441",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Search for files/notes",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123442",
+    "end_time": "20260305123609",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open overflow menu for more actions/settings",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123610",
+    "end_time": "20260305123627",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new folder instead of a file",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305131933",
+    "end_time": "20260305132141",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm creation with OK",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305132634",
+    "end_time": "20260305132650",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Cancel and close the create dialog",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130547",
+    "end_time": "20260305130603",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Rename the current document by editing the title field",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305115000",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle preview/read mode for the current document",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115410",
+    "end_time": "20260305115426",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Search within the current document text",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305115838",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open editor overflow menu for document actions (e.g., share/export/settings)",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115427",
+    "end_time": "20260305115442",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Apply bold formatting to selected text",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120302",
+    "end_time": "20260305120559",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert a level-1 heading (H1) at cursor",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120600",
+    "end_time": "20260305120619",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert a level-2 heading (H2) at cursor",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120620",
+    "end_time": "20260305120638",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert code formatting (inline/code block) at cursor",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120639",
+    "end_time": "20260305120820",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert a checklist/to-do list item",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305120821",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert a bulleted/numbered list",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124508",
+    "end_time": "20260305124527",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the Table of contents dialog",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305120246",
+    "end_time": "20260305120302",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the Table of contents search query",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305140208",
+    "end_time": "20260305140454",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Reload the current document from storage",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305115443",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "View information/details about the current document",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125814",
+    "end_time": "20260305125830",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle whether this file appears in recent files list",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125831",
+    "end_time": "20260305125846",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark or unmark this file as a favourite",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125847",
+    "end_time": "20260305125903",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the file info dialog",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125904",
+    "end_time": "20260305125921",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter edit mode to modify the current note",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305115821",
+    "end_time": "20260305115837",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Export or save the current document to device storage",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305142210",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Undo the last edit in the document",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305121242",
+    "end_time": "20260305121434",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Redo the last undone edit",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305121451",
+    "end_time": "20260305121634",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Save the current document",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305124528",
+    "end_time": "20260305124835",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert a level-3 heading (H3) at cursor",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125933",
+    "end_time": "20260305125951",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change text size/zoom settings for the editor",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125951",
+    "end_time": "20260305130126",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Show or hide the on-screen keyboard",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124927",
+    "end_time": "20260305124943",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert current date/time into the document",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124944",
+    "end_time": "20260305125149",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete the current document",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130127",
+    "end_time": "20260305130249",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert a numbered list item",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125150",
+    "end_time": "20260305125218",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel document search and close the search dialog",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305121435",
+    "end_time": "20260305121450",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable Regex mode for searching",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305134437",
+    "end_time": "20260305134453",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter text to search for in the document",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305134454",
+    "end_time": "20260305134512",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter replacement text for matched results",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305134513",
+    "end_time": "20260305134533",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open search/replace options dropdown (e.g., navigation/settings)",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305134533",
+    "end_time": "20260305134550",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable Multiline mode for search/replace",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305134755",
+    "end_time": "20260305134810",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Apply preset search/replace template (convert checked tasks to unchecked)",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305134028",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Apply preset search/replace template (remove extra blank lines)",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305134551",
+    "end_time": "20260305134754",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Refresh/re-render the document content (update view)",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125219",
+    "end_time": "20260305125251",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Exit/close the Speed Read overlay",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124836",
+    "end_time": "20260305124926",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort or reorder content/list using A-Z option",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305133526",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert an image into the document",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305135752",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle favourite/star status for this note",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305133919",
+    "end_time": "20260305133952",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open keyboard/input options from the toolbar",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125251",
+    "end_time": "20260305125308",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the Search/Custom input field",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142018",
+    "end_time": "20260305142034",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Refresh/reload the current document using the refresh button",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305131729",
+    "end_time": "20260305131915",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open date/time picker or time insertion options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131916",
+    "end_time": "20260305131932",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open feedback form to report bugs or suggest improvements",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305121746",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open Help / FAQ documentation",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305122240",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Rate the app in the app store",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305122722",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Import files into Markor from device storage",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123628",
+    "end_time": "20260305123914",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Files and folders settings",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142608",
+    "end_time": "20260305142656",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Miscellaneous settings",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142713",
+    "end_time": "20260305142729",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Editor Settings (edit mode)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143238",
+    "end_time": "20260305143254",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open View mode settings (converted markup display)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143717",
+    "end_time": "20260305143733",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate back from Settings",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142657",
+    "end_time": "20260305142713",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the internal storage (emulated) directory",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123915",
+    "end_time": "20260305123934",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Download folder",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305123935",
+    "end_time": "20260305124115",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a folder from the file list to browse its contents",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124116",
+    "end_time": "20260305124240",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a file from the file list to view/edit it",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305124241",
+    "end_time": "20260305124508",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open path/location options for the current directory",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130250",
+    "end_time": "20260305130546",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Tap the displayed notebook path to navigate/change location",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305130604",
+    "end_time": "20260305130622",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Choose recursive directory search scope from dropdown.",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305130623",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open folder picker overflow menu for additional actions/options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131008",
+    "end_time": "20260305131024",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Jump to the home/root location in the folder picker",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305131029",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Search for a folder/file within the import picker",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131434",
+    "end_time": "20260305131512",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new folder in the current import directory",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131513",
+    "end_time": "20260305131626",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert or trigger Page Up special key action",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305125309",
+    "end_time": "20260305125430",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sync or refresh the current document using the circular-arrows button",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305125430",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Select the Download folder from the list to navigate into it",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305131627",
+    "end_time": "20260305131702",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Insert a hyperlink into the document",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305132142",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Attach/insert a file reference into the note",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305132650",
+    "end_time": "20260305132755",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Upload/insert content from storage (up-arrow action)",
+    "source_activity": "MainActivity",
+    "status": "FAILED",
+    "start_time": "20260305132756",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Select the highlighted file entry in the picker list",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305133154",
+    "end_time": "20260305133525",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open picker overflow menu for additional options",
+    "source_activity": "MainActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142547",
+    "end_time": "20260305142603",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the Search/Replace dialog title text",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305134811",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Insert an @ symbol at the cursor position",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305135334",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Enter an image description/alt text for the inserted image",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142117",
+    "end_time": "20260305142209",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Manually edit the current folder path to jump to a specific directory",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305140455",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Tap the current path bar to navigate/edit the selected directory path.",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305140922",
+    "end_time": "20260305141302",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Confirm/select the currently shown folder location (/storage) in the picker",
+    "source_activity": "DocumentActivity",
+    "status": "FAILED",
+    "start_time": "20260305141302",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Select the \"/storage\" entry to navigate into that directory",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305141708",
+    "end_time": "20260305141744",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Recent shortcut location in the folder picker",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305141745",
+    "end_time": "20260305141821",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Popular shortcut location in the folder picker",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305141822",
+    "end_time": "20260305141853",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Favourites shortcut location in the folder picker",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305141903",
+    "end_time": "20260305141919",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Navigate into the AppData (private) storage location",
+    "source_activity": "DocumentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305141924",
+    "end_time": "20260305141940",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the navigation bar color theme",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142730",
+    "end_time": "20260305142803",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable keeping the screen on",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142804",
+    "end_time": "20260305142820",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable blocking screenshots",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142821",
+    "end_time": "20260305142838",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure the default format used for Share Into",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142838",
+    "end_time": "20260305142914",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set or edit the attachment folder name",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142915",
+    "end_time": "20260305142947",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the snippet/template directory location",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305142948",
+    "end_time": "20260305143022",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle opening links using Chrome Custom Tabs",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143023",
+    "end_time": "20260305143040",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change file description format shown in file browser",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143041",
+    "end_time": "20260305143131",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel and close the navigation bar color dialog",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143212",
+    "end_time": "20260305143227",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change file description format shown in the file browser",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143132",
+    "end_time": "20260305143206",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Edit the Share-Into format/prefix template text",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305144538",
+    "end_time": "20260305144741",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the editor font family (select a different font).",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143255",
+    "end_time": "20260305143328",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Adjust editor font size using the slider.",
+    "source_activity": "SettingsActivity",
+    "status": "FAILED",
+    "start_time": "20260305143329",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle underlining of hex color codes in the editor.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143734",
+    "end_time": "20260305143823",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle disabling the red spelling underline in the editor.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143824",
+    "end_time": "20260305143840",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle using a monospace font for code blocks/inline code.",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305143841",
+    "end_time": "20260305144222",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable Prefer view (open files in view mode by default)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305144223",
+    "end_time": "20260305144312",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure content injected into HTML head (CSS/JavaScript)",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305144313",
+    "end_time": "20260305144345",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Configure content injected into HTML body",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305144346",
+    "end_time": "20260305144433",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the link color used in view mode",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305144434",
+    "end_time": "20260305144507",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable RTL rendering for right-to-left languages",
+    "source_activity": "SettingsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260305144508",
+    "end_time": "20260305144523",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  }
+]

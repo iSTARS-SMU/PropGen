@@ -1,0 +1,1046 @@
+[
+  {
+    "description": "Open a deck to start studying its due cards",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303133028",
+    "end_time": "20260303133046",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Expand or collapse a deck group to show/hide subdecks",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303133152",
+    "end_time": "20260303133211",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Create a new item (e.g., add note/deck) using the plus button",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303133211",
+    "end_time": "20260303133321",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the navigation drawer menu",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303133322",
+    "end_time": "20260303133338",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sync collection with AnkiWeb",
+    "source_activity": "DeckPicker",
+    "status": "FAILED",
+    "start_time": "20260303133339",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open more options from the overflow menu",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303141942",
+    "end_time": "20260303142000",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reveal the answer for the current flashcard",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303133047",
+    "end_time": "20260303133103",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Flag/mark the current card for later review",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303133103",
+    "end_time": "20260303133136",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen (exit reviewer)",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303133137",
+    "end_time": "20260303133152",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark the card as Easy to schedule it further in the future",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143212",
+    "end_time": "20260303143229",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark the card as Good to continue with the normal interval",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303144129",
+    "end_time": "20260303144145",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark the card as Hard to shorten the next review interval",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303145510",
+    "end_time": "20260303145528",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark the card as Again to relearn it soon",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303150429",
+    "end_time": "20260303150446",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Undo the last review action",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303142235",
+    "end_time": "20260303142418",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open deck options to change study settings for the current deck",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303142813",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Enable voice playback for reading card content aloud",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143318",
+    "end_time": "20260303143335",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Replay audio/video media attached to the current card",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143706",
+    "end_time": "20260303143819",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reschedule the current card to a different due date",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303144458",
+    "end_time": "20260303144606",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Mark or unmark the current note for later attention",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303150258",
+    "end_time": "20260303150316",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Delete the current note from the collection",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303151945",
+    "end_time": "20260303152019",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Suspend the current card to stop it appearing in reviews",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303153945",
+    "end_time": "20260303154132",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Bury the current card to hide it until the next day",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303154149",
+    "end_time": "20260303154251",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Star/unstar the current card/note (toggle favorite)",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303142419",
+    "end_time": "20260303142436",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open deck study options/statistics by tapping the deck's due count badge",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303142109",
+    "end_time": "20260303142219",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "View detailed study statistics by tapping the bottom daily stats bar",
+    "source_activity": "DeckPicker",
+    "status": "FAILED",
+    "start_time": "20260303145959",
+    "end_time": "20260303150144",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Export the collection/decks to a file for sharing or backup",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303142001",
+    "end_time": "20260303142108",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Search settings by entering keywords in the search field",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134021",
+    "end_time": "20260303134055",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open General settings (language, studying, system-wide options)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134135",
+    "end_time": "20260303134212",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Reviewing settings (scheduling, keep screen on, etc.)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135135",
+    "end_time": "20260303135154",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Sync settings (AnkiWeb account, automatic sync options)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140154",
+    "end_time": "20260303140210",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Notifications settings (notify when, vibrate, blink light)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140719",
+    "end_time": "20260303140735",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open Appearance settings (themes, study screen options)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303141444",
+    "end_time": "20260303141500",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to the previous screen from Settings",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134000",
+    "end_time": "20260303134020",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open AnkiWeb account login/setup from Sync settings",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134306",
+    "end_time": "20260303134323",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change when media is fetched during sync (e.g., Always)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134506",
+    "end_time": "20260303134539",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable automatic synchronization on app start/exit",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134213",
+    "end_time": "20260303134305",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle display of synchronization status in the UI",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134540",
+    "end_time": "20260303134557",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Allow or block syncing while on metered connections",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134558",
+    "end_time": "20260303134615",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open advanced sync options (e.g., one-way sync controls)",
+    "source_activity": "PreferencesActivity",
+    "status": "FAILED",
+    "start_time": "20260303134615",
+    "end_time": "20260303134804",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Enter AnkiWeb email address for login",
+    "source_activity": "MyAccount",
+    "status": "COMPLETED",
+    "start_time": "20260303134324",
+    "end_time": "20260303134358",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enter AnkiWeb password for login",
+    "source_activity": "MyAccount",
+    "status": "COMPLETED",
+    "start_time": "20260303133801",
+    "end_time": "20260303133941",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle password visibility (show/hide password)",
+    "source_activity": "MyAccount",
+    "status": "COMPLETED",
+    "start_time": "20260303152043",
+    "end_time": "20260303152101",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Reset AnkiWeb password via reset link",
+    "source_activity": "MyAccount",
+    "status": "FAILED",
+    "start_time": "20260303152102",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open AnkiWeb account signup page",
+    "source_activity": "MyAccount",
+    "status": "FAILED",
+    "start_time": "20260303152524",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Go back to previous screen from AnkiWeb account",
+    "source_activity": "MyAccount",
+    "status": "COMPLETED",
+    "start_time": "20260303133942",
+    "end_time": "20260303134000",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the entered email address from the input field",
+    "source_activity": "MyAccount",
+    "status": "COMPLETED",
+    "start_time": "20260303134359",
+    "end_time": "20260303134436",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the Settings overflow menu for additional actions/options",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134056",
+    "end_time": "20260303134116",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the settings search history",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134117",
+    "end_time": "20260303134134",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Enable or disable sharing feature usage analytics.",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303134805",
+    "end_time": "20260303135016",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle full-screen swipe to open navigation drawer.",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135017",
+    "end_time": "20260303135036",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle pasting clipboard images as PNG in editor.",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135036",
+    "end_time": "20260303135054",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set media fetching to only on unmetered connections during sync",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140657",
+    "end_time": "20260303140715",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Dismiss the fetch media setting dialog without changes",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140859",
+    "end_time": "20260303141019",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle requiring pressing back twice to exit/go back from study/app",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135055",
+    "end_time": "20260303135134",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Adjust the start-of-next-day cutoff time using the slider",
+    "source_activity": "PreferencesActivity",
+    "status": "FAILED",
+    "start_time": "20260303135155",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Change the Learn ahead limit duration",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135557",
+    "end_time": "20260303135646",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set a Timebox time limit for review sessions",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135646",
+    "end_time": "20260303135736",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle Keep screen on during reviews",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303135737",
+    "end_time": "20260303135754",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Adjust the double-tap prevention interval using the slider",
+    "source_activity": "PreferencesActivity",
+    "status": "FAILED",
+    "start_time": "20260303135754",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Configure one-way sync to force changes in one direction on next sync",
+    "source_activity": "PreferencesActivity",
+    "status": "FAILED",
+    "start_time": "20260303140221",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open documentation about custom sync servers via the Learn more link",
+    "source_activity": "PreferencesActivity",
+    "status": "FAILED",
+    "start_time": "20260303141045",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Change the condition for when notifications are shown",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140736",
+    "end_time": "20260303140809",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle vibration for notifications on or off",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140810",
+    "end_time": "20260303140823",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle LED blink light for notifications on or off",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140824",
+    "end_time": "20260303140840",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Set notification trigger to when more than 10 cards are due",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303141028",
+    "end_time": "20260303141044",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle vibration for notifications on or off",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303140841",
+    "end_time": "20260303140854",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the app theme mode (e.g., follow system)",
+    "source_activity": "PreferencesActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303141501",
+    "end_time": "20260303141534",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Select a custom background image for the study screen",
+    "source_activity": "PreferencesActivity",
+    "status": "FAILED",
+    "start_time": "20260303141535",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Start studying this deck using the Study button",
+    "source_activity": "StudyOptionsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303142220",
+    "end_time": "20260303142235",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open deck configuration/settings via the sliders icon",
+    "source_activity": "StudyOptionsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303151421",
+    "end_time": "20260303151436",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle reviewer display mode using the split/flip layout button",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303142437",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Clear any flag from the current card (set to No Flag).",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143243",
+    "end_time": "20260303143300",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Record audio (start/stop) to attach to the current card/note",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143336",
+    "end_time": "20260303143412",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Stop the current audio recording attachment",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303144023",
+    "end_time": "20260303144038",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close/dismiss the audio recording panel without stopping via app bar",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143413",
+    "end_time": "20260303143509",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Close the audio playback bar/panel",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303143820",
+    "end_time": "20260303144022",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Dismiss the audio recording panel using the close (X) button",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303143510",
+    "end_time": "20260303143657",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Star or unstar the current card using the star icon",
+    "source_activity": "Reviewer",
+    "status": "COMPLETED",
+    "start_time": "20260303144039",
+    "end_time": "20260303144055",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open flag options menu for the current card",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303144206",
+    "end_time": "20260303144346",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Close the audio recording/playback bar",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303144607",
+    "end_time": "20260303144954",
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Redo the last undone action using the redo button",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303145040",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Search cards in the browser using the search icon",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303154309",
+    "end_time": "20260303154405",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort the card list by the Sort Field column",
+    "source_activity": "CardBrowser",
+    "status": "FAILED",
+    "start_time": "20260303154406",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Sort the card list by Card Type column",
+    "source_activity": "CardBrowser",
+    "status": "FAILED",
+    "start_time": "20260303154803",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Sort the card list by Due column",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155344",
+    "end_time": "20260303155609",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Sort the card list by Deck column",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155610",
+    "end_time": "20260303155845",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open a card/note from the list to view or edit details",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155846",
+    "end_time": "20260303155904",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Share or export the deck statistics report",
+    "source_activity": "SingleFragmentActivity",
+    "status": "FAILED",
+    "start_time": "20260303145556",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Go back to the previous screen from Statistics",
+    "source_activity": "SingleFragmentActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303150158",
+    "end_time": "20260303150212",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Undo the last action/change on this deck screen",
+    "source_activity": "StudyOptionsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303153213",
+    "end_time": "20260303153326",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open deck tools/actions menu (additional options for this deck)",
+    "source_activity": "StudyOptionsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303151440",
+    "end_time": "20260303151455",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle card layout between split/flip display modes while reviewing",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303150447",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open the \"Using AnkiDroid\" help documentation section",
+    "source_activity": "Reviewer",
+    "status": "FAILED",
+    "start_time": "20260303150904",
+    "end_time": null,
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Start custom study by selecting cards by state or tag",
+    "source_activity": "StudyOptionsActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303151456",
+    "end_time": "20260303151602",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Refresh the custom study session card counts/selection.",
+    "source_activity": "StudyOptionsActivity",
+    "status": "FAILED",
+    "start_time": "20260303151603",
+    "end_time": "20260303151915",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Proceed to AnkiWeb login to enable cloud sync",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303152027",
+    "end_time": "20260303152043",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Rename the selected deck",
+    "source_activity": "DeckPicker",
+    "status": "COMPLETED",
+    "start_time": "20260303153120",
+    "end_time": "20260303153208",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Filter the card list by typing a query in the search field",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155940",
+    "end_time": "20260303155959",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Clear the current card browser search query",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155923",
+    "end_time": "20260303155939",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open card browser overflow menu for additional actions",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155959",
+    "end_time": "20260303160020",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Exit search and return to previous screen",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303160101",
+    "end_time": "20260303160138",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save the current card browser search for reuse later",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303155201",
+    "end_time": "20260303155343",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the card list display order/sorting mode",
+    "source_activity": "CardBrowser",
+    "status": "COMPLETED",
+    "start_time": "20260303160020",
+    "end_time": "20260303160100",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Save changes to the edited note",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303155905",
+    "end_time": "20260303155922",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Preview the note/card as it will appear when studying",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303160156",
+    "end_time": "20260303160212",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open note editor overflow menu for more actions",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303160250",
+    "end_time": "20260303160309",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Change the note type (model) for this note",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303160614",
+    "end_time": "20260303160656",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Move this note to a different deck",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303160657",
+    "end_time": "20260303160736",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Open the generated cards list/details for this note",
+    "source_activity": "NoteEditorActivity",
+    "status": "FAILED",
+    "start_time": "20260303160737",
+    "end_time": null,
+    "feature_identify_correctness": "Fail",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Add content/attachment to the note via the Add menu",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303160310",
+    "end_time": "20260303160613",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add an attachment (image/audio/file) to the Front field",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303161651",
+    "end_time": "20260303161917",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Add an attachment (image/audio/file) to the Back field",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303161917",
+    "end_time": "20260303162146",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Toggle a bookmark/marker for the Front field content",
+    "source_activity": "NoteEditorActivity",
+    "status": "FAILED",
+    "start_time": "20260303161208",
+    "end_time": "20260303161433",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Toggle a bookmark/marker for the Back field content",
+    "source_activity": "NoteEditorActivity",
+    "status": "FAILED",
+    "start_time": "20260303161434",
+    "end_time": "20260303161641",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Fail"
+  },
+  {
+    "description": "Open tag editor to add or modify tags for this note",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303162146",
+    "end_time": "20260303162204",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  },
+  {
+    "description": "Cancel deck selection and close the deck picker dialog",
+    "source_activity": "NoteEditorActivity",
+    "status": "COMPLETED",
+    "start_time": "20260303161147",
+    "end_time": "20260303161208",
+    "feature_identify_correctness": "Success",
+    "feature_execute_correctness": "Success"
+  }
+]

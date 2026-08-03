@@ -1,0 +1,52 @@
+Total Tasks,Total Steps,Input Tokens,Output Tokens,Total Tokens
+48,600,4818471,340974,5159445
+
+Task Name,Steps,Result,Input Tokens,Output Tokens,Total Tokens,Valid Func,Correctly Executed
+Open the maintainer/contributor link to view the app’s support/development information.,17,FAILURE,87800,5437,93237,true,false
+Return to the main library screen and start the initial setup by granting any required media/storage permissions so your music library can be scanned.,13,FAILURE,85280,5312,90592,true,false
+"Open the About section and view the app’s License information, then start a Bug Report draft to capture the earlier crash behavior.",13,FAILURE,87580,5359,92939,true,false
+Send a manual bug report from this page to reach the issue-tracker handoff.,18,FAILURE,85615,6857,92472,true,false
+Return to the main screen and start a first-time music library scan by granting the required media/storage permission (or SAF access) when prompted.,5,FAILURE,32611,2378,34989,true,false
+Edit the tags (title/artist/genre) of one song from the Songs list and try to save the changes.,10,SUCCESS,63437,4119,67556,true,true
+"Verify the edited song title in the Songs list, then update the song’s Album artist field and save.",13,FAILURE,82273,5787,88060,true,false
+Update the song’s Album name to a clearly recognizable value and save the changes.,13,SUCCESS,95964,7009,102973,true,true
+Update the album’s “Album artist” and “Genre” fields in the Album Tag editor and save the changes to apply them across the album.,6,SUCCESS,34832,2353,37185,true,true
+Add a release year to the album and save the updated album tags.,4,SUCCESS,29056,2084,31140,true,true
+Start playing a song from the Songs list and open the full player from the mini player to look for lock-screen/drive-mode playback options.,13,FAILURE,122896,8844,131740,true,false
+Share the currently playing song to an Instagram Story from the song’s options menu.,14,FAILURE,80683,4873,85556,true,false
+Cancel the current share chooser and grant Retro Music the required media/storage permissions (including SAF access if prompted) so it can scan your music library.,13,FAILURE,121437,8971,130408,true,false
+Enable synced lyrics for “Heartbeat (Edited)” and see if the app prompts for any required permissions or opens a setup/help screen.,16,FAILURE,101485,7738,109223,true,false
+Grant Retro Music access to your music files by starting the app’s storage/media permission (or SAF folder selection) setup from the main area.,13,FAILURE,100387,7390,107777,true,false
+Enable lock-screen playback controls from the player/queue settings and verify they appear as an in-app LockScreen setting screen (and grant any prompted permissions if asked).,13,FAILURE,112162,8152,120314,false,false
+Clear the current Now Playing queue and start a fresh queue by playing a different track from the list.,13,FAILURE,164256,12897,177153,true,false
+Set a sleep timer for the currently playing music and confirm it’s active.,2,SUCCESS,18545,1157,19702,true,true
+Open the app’s storage access setup and grant the required permission (or choose a music folder via SAF) so the library can scan properly.,13,FAILURE,117803,8820,126623,true,false
+"Add custom lyrics for the currently playing song by opening the Edit Lyrics screen, pasting a short snippet, and saving/applying it so the Lyrics view no longer shows “No lyrics found.”",13,FAILURE,118768,8313,127081,true,false
+"Grant Retro Music permission to access your music (and, if prompted, choose a music folder via the system file picker) so the library can scan.",13,FAILURE,98526,7260,105786,true,false
+Open the app’s library/settings from the Lyrics screen and start the “choose music folder / storage access (SAF)” setup to enable a proper library scan.,13,FAILURE,106661,8039,114700,true,false
+Set up music library access by opening Settings from the Main screen and starting the storage/media permission or “choose music folder” (SAF) flow.,13,FAILURE,97958,7159,105117,true,false
+Set up music library access by granting storage/media permission (or choosing a music folder via SAF) from the app’s main menu/settings.,13,FAILURE,104306,7578,111884,true,false
+Open the app’s Settings from the Main screen and start the music library access setup by granting media/storage permission or choosing a music folder.,13,FAILURE,96940,7033,103973,true,false
+Open the app’s storage/library access help (SAF guide) from the overflow menu and start the music-folder/permission setup flow.,13,FAILURE,105163,7810,112973,false,false
+"Launch Retro Music from an app shortcut (e.g., “Shuffle all” or “Play last”) and start playback from there to see whether it opens the shortcut launcher and requests any missing permissions.",24,FAILURE,124388,7469,131857,true,false
+Open Settings and start the “Backup & Restore” setup to restore the library (or choose a music folder if prompted).,14,FAILURE,75146,4762,79908,true,false
+Locate a Retro Music backup file by browsing from “Show roots” in the system picker and attempt to select it to proceed with Restore.,16,FAILURE,72791,4749,77540,true,false
+Create a new backup from Backup & Restore and confirm it appears in the Backups list.,2,SUCCESS,12537,743,13280,true,true
+Restore the backup you just created by locating it in the system file picker and starting the restore.,15,FAILURE,80200,5424,85624,true,false
+Locate and select the newly created Retro Music backup file in the system file picker to start a restore.,15,FAILURE,74101,5036,79137,true,false
+Find and select the newly created Retro Music backup file in the system picker to start the restore process.,15,FAILURE,77058,4996,82054,true,false
+Find the newly created Retro Music backup file in storage and select it to start the Restore process.,15,FAILURE,76408,5151,81559,true,false
+Locate and select the most recent Retro Music backup file in storage to start the Restore process.,16,FAILURE,76537,4834,81371,true,false
+Open the full Now Playing screen from the mini player and enable a lock-screen/notification playback option if prompted.,13,FAILURE,120022,8781,128803,false,false
+Open the app settings and enable Lock Screen/notification playback controls.,13,FAILURE,119059,8037,127096,false,false
+Enable lock-screen playback controls by opening Settings and turning on the Lock Screen/notification player option.,13,FAILURE,122389,8280,130669,false,false
+Start the music library access setup by finding the storage/media permission or SAF music-folder picker from Settings.,13,FAILURE,107090,7362,114452,true,false
+Open Audio settings and adjust the equalizer/sound options to change how music playback sounds.,6,SUCCESS,36118,2309,38427,true,true
+Enable “Always play” in Audio settings and then set a non-zero Crossfade duration.,13,FAILURE,126120,8132,134252,true,false
+"Enable Auto-play and Bluetooth playback, then start playback from the mini-player to confirm the settings take effect.",6,SUCCESS,55513,3514,59027,true,true
+"Open a Top artist and start playing one of their songs, then use the artist’s overflow options to jump to the album or share the track.",13,FAILURE,111001,7228,118229,true,false
+Open the current song’s album and start playing the whole album from the album screen.,13,FAILURE,105061,8093,113154,true,false
+"Change the song list sorting (e.g., switch to “Title” or “Date added”) and confirm the list order updates.",13,SUCCESS,102822,7365,110187,true,true
+"Open Settings and enable any lock-screen/notification player option, granting any prompted permissions.",13,FAILURE,144153,10400,154553,false,false
+Configure artist/album image downloading settings and trigger any required permission prompt.,13,FAILURE,160915,11569,172484,true,false
+Open the Images settings and enable artist image downloading so the app prompts for storage/media access (or shows the SAF guidance) and complete the prompt.,13,FAILURE,163344,11881,175225,true,false
